@@ -168,7 +168,7 @@
 		
 		"verse3": "Pa Pasian leh Tapa, Amau tawh maang Kha Siangtho\nTu'n phatna lungdamna van sangbel ah i puak to\nLeitung, vantung, tawntung Amah bek biakna pia'n\nTuma, tulai, tunung Amah khat bek Pasian",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -209,7 +209,7 @@
 
 		"verse4": "Lungdam huai Ama maitangpi\nHong mu in ci’n a hong sap ni\nA hong tung lai ding hi\nHong it manin zawhna ngah aa\nHong gum Zeisu ka U kiangah\nKa om tawntung ding hi\nKa om tawntung ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -250,7 +250,7 @@
 
 		"verse4": "Zeisu ka lawmpa, tuucingpa\nKa siampi, ka kumpi\nKa Topa hin’na lam a pha na\nPhat tawntung ngah pah hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -289,7 +289,7 @@
 
 		"verse3": "A nisim in hong hehpihna\nA tampi hong basak den\nNa hehpih na’n hong khih inla\nNa kiang pan hong pialsak ke’n\nTopa kong vaksan dek zeel hi\nKa it Pasian, hong keem in\nHiah! Ka lungsim, Nang sung seel ni\nNang aa ding na ciamteh in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -316,7 +316,7 @@
 		
 		"zoTitle": "Leitung Mihing Khempeuh",
 
-		"engTitle": "All People that on Earth",	
+		"engTitle": "All People That on Earth",	
 
 		"key": "Key: G",
 
@@ -330,7 +330,7 @@
 
 		"verse4": "Pasian bang hang migi bel hiam\nA hong itna maan taktak hi\nA thumaan a cil in om ta\nA thumaan a cil in om ta",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -373,7 +373,7 @@
 
 		"chorus": "Topa phatna sak ding lapha\nA sipha tawh hong sawp hi\nSinglamteh tung sihna thuak aa\nKa mawh hong phelsak zo hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -414,7 +414,7 @@
 
 		"verse4": "Siangtho, Siangtho, Siangtho!\nA lianpen To Pasian!\nLeitung, tuitung, vantung ah Na min kiphat ding hi\nSiangtho, Siangtho, Siangtho!\nHehpih thei a vaanglian!\nThum kigawmna siangtho thupha Pasian!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Rev. 4:8",
@@ -458,7 +458,7 @@
 
 		"chorus": "Thu ciamna cing kham vantung mihingte in\nA aw zaknop huai-in la sa uh hi\nNitak kap aa zingsang lungdamsak hi\nSawtvei khuamial itna khua vaaksak in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -501,7 +501,7 @@
 
 		"chorus": "Kumpi lukhu, Kumpi lukhu\nTopa Zeisu khusak un\nKumpi lukhu, Kumpi lukhu\nTopa Zeisu khusak un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -534,7 +534,7 @@
 
 		"verse1": "Pa aw, ka kikhen uh ciang\nKo lungsim Nang deih bang hita hen\nThungetna (Prayer):\nEite khat leh khat, i kikhen ciangin,\nTopa Pasian in, i omna ciat ah,\nHong kem tawntung ta hen, Amen!",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -573,7 +573,7 @@
 
 		"verse3": "Topa phat un, na sepna bawlna khempeuh\nHong huh hi a maan takin\nHehpihna leh nopna tawh hong khuh dia\nLung ngaingai in, Amah thahatna thei in\nAmah tawh va kipawl thei ni",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -612,7 +612,7 @@
 
 		"verse3": "Na min kong phat uh hi, Galzo makai Pipa\nKote hong dal hong keem ding kong ngen uh hi\nZe-etna tawh mite hong kipelh sak in\nNa min kiphat den hen! Topa hong gum in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -653,7 +653,7 @@
 
 		"verse4": "Ei zong phattek ni, A vangliatna thu\nA min than’na thu, A pilna, hatna\nPhatna leh thupha tawh i phattek ding hi\nVan pan vantung mi’n tawntung itna phat hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -694,7 +694,7 @@
 
 		"verse4": "Leitung ka hin’lai teng\nSa ning ka sih mateng\nZeisu Khazih phat huai!\nSih ciang vantung tung leng\nKa la hih mah hi leng\nZeisu Khazih phat huai!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -733,7 +733,7 @@
 
 		"verse4": "Na hehpihna ka lungsung teeng\nA namtuina hong bua\nLiamma khempeuh a damsak thei\nItna tawh hong keem hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -774,7 +774,7 @@
 
 		"verse4": "Ka kha Nang kiang hong la inla\nNuam tak kei hong ihmusak in\nTua in kei hong thahatsak in\nKa thawh kik ciang Topa phat ning",
 		
-		"style": "",
+		"style": "2/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -815,7 +815,7 @@
 
 		"verse4": "Eite kikhen ciangin\nLungsim dahna piang hi\nHih hang i lungsim tawh om khawm\nNung ciang kimu ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -854,7 +854,7 @@
 
 		"verse3": "Leitung pan in Nong sap peuh ciang\nSihna kihta hetlo in\nVantung mite’n hong lenpih ciang\nHong mang ning lungdam takin\nTawntung Na kiang tawntung Na kiang\nNangmah tawh hong maangsak in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -895,7 +895,7 @@
 
 		"verse4": "Leitung nuntaak lai lungnop hong pia in\nDah hong neem in, hong kipsak tawntung in\nKo galdona Nong tawlngaksak tak ciang\nHong sam in tawntung nopna Nangma kiang",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -928,7 +928,7 @@
 
 		"verse1": "Topa A inn siangtho sung om hi\nTopa A inn siangtho sung om hi\nDai dide in om ta un\nDai dide in om ta un\nAmai ah, Dai dide’n om ta un\nAmai ah, Amen...",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -971,7 +971,7 @@
 
 		"chorus": "I kimuh kik mateng\nZeisu kiang kimuh mateng\nI kimuh kik mateng\nNangmah tawh Pasian om khawm ta hen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1014,7 +1014,7 @@
 
 		"verse5": "Keima ka mitsi ka sih laitak in\nNa singlamteh ka mai-ah hong lak in\nVantung khuavaak leitung khuamial bei aa\nSih laitak kei tawh om khawm in Topa",
 		
-		"style": "",
+		"style": "4/4 (Ballad)",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1049,7 +1049,7 @@
 
 		"verse1": "A vaanglian Pa aw, kong thum hong ngai in\nNa ma hong ngak ko thupha hong pia’n\nAmen",
 		
-		"style": "",
+		"style": "2/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1092,7 +1092,7 @@
 
 		"chorus": "Siangtho, Siangtho, Siangtho, Topa Pasian'\nLeitung, vantung ah Na vaang\nNangmah phatna hong kilangh\nSangbel Pasian!",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1130,7 +1130,7 @@
 
 		"verse2": "Nuntaak lam mainawt nading zing khuavaak ciang aa\nKo hong mang keeikaai zo nading Nangma deihna\nSiatna' vaang panin hong dal in\nLam kawcik ah hong paipih in\nSun niloh hong mukhialsak kei in,\nNangma maipha",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1171,7 +1171,7 @@
 
 		"verse4": "Tuzan khua vaak in ah, Na vantung mite’n\nKo tung kha zaak in ah, Ko hong cing uh hen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1212,7 +1212,7 @@
 
 		"verse4": "Tuzan ciangin ko lupna tung\nTheih kholh loh ka si zong un\nA vul ngeilo paakpalh bangin\nVantungah zing khanglo ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1255,7 +1255,7 @@
 
 		"verse5": "Nitak aa a thum a taute\nCidam lo aa a zawngkhalte\nNa thupha kong na hon’ in la\nA lung na damsak in, Topa",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1296,7 +1296,7 @@
 
 		"verse4": "Nang Na neihloh hang mawhna\nNa thei ka gitnat lohna\nTua hi aa To Zeisu aw\nHehpihna tawh hong en aw",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1337,7 +1337,7 @@
 
 		"verse4": "Hih leitung kumpi gamte bangin\nNa ukna gam beingei kei hen\nNa bawlsa leitung na khempeuh in\nNa ukna gam beingei lo ding",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1378,7 +1378,7 @@
 
 		"chorus": "Phat un, a taang van mi’n\nKham gawsem tum in, A mi khempeuh in phat\nA mai en sa in, A gam lianpi sungah\nKum tawn kha tawn in, A bawlsa te’n phat ding\nKa it kha aw phat in, A bawlsa te’n phat ding\nKa kha aw phat in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1419,7 +1419,7 @@
 
 		"verse4": "Suahtakna thumaan hong pia in\nNang aa ding lungsim tawh kuan in\nA nungta Na biakinn suah dong\nSiangtho khuavaak, vantung khuavaak. Amen",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1458,7 +1458,7 @@
 
 		"verse3": "Mawh maisak Pa, thupha pia Pa\nCing tawntung thupha Na hi\nTuinaak bang nun’na sung nuamna\nTawlngakna nuam pen Na hi\nItna nei peuh Nang aa hi khin\nKote’ Pa leh Honpa aw\nKo ki-it tek na’ng hong hilh in\nNa nuamna sung dom to aw",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1495,7 +1495,7 @@
 
 		"verse2": "Nang sung ka thahat nangun\nNatna khempeuh nuamsak in\nNa deih bang hong hisak in\nLungdam hiah kimuh kik na'ng\nAmen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1536,7 +1536,7 @@
 
 		"verse4": "Leitung vangliatnate tungah\nLungdamna piak kul lo hi, Kha Siangtho hehpihna ei aa\nEi lam Amah hong pang khawm, Leitung nuntakna leh\nNate sia khin ding aa, Pumpi a that ding hi\nPasian thumaan kip in, A gam kip tawntung ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1577,7 +1577,7 @@
 
 		"verse4": "Aw, Nang sung bek ah ko hoihna ding kimuang\nTanglai pek aa Na mite hong omna\nNa hehpihna guah bang aa a zusak den\nZingdaai bang nisial a thak a suak\nKote lamet bang lungsim tha hong guan in\nTha khauhna ngah in lam ka pai na'ng un! A man.",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1620,7 +1620,7 @@
 
 		"chorus": "Tua ahih ciang, la kong sa hong Honpa\nBangzah Na lian, Bangzah Na lian\nTua ahih ciang, kong phat hi, Topa aw\nNang Na lian hi, Nang Na lian hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1661,7 +1661,7 @@
 
 		"chorus": "\"Na thumaanna lian hi, Na thumaanna lian hi\"\nZingsang simin hehpihna thak ka mu\nKa sapna teng Na khut in hong guan tawntung\n\"Na thumaanna lian hi,\" Topa kei’ tung",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1702,7 +1702,7 @@
 
 		"verse4": "Nam thum pawl khat Pasian\nTopa Nangmah a lian, Na minthang hen\nVantung gam sung Nangmah\nNa vanglian mi dingin\nNangmah a tawntung in ka it ding hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1741,7 +1741,7 @@
 
 		"verse3": "Sawtpi Nangmah’n thupha nong piak manin\nHong pia lai in, gam kuam, mual kal, tuipi kheng Topa in\nLam hong hilh ta, khuavaak ciangin sau veipi ka it mi\nLungdam inah keimah’n ka um ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1784,7 +1784,7 @@
 
 		"chorus": "Gimna gam sungah Zeisu Suangpi a hi\nBelh ding Suangpi, Belh ding Suangpi\nGimna gam sungah Zeisu Suangpi a hi\nHuihpi nun ciang aa kidalna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1827,7 +1827,7 @@
 
 		"chorus": "Amah’n hong kha, Amah’n hong kha\nAma khut tawh Amah’n hong kha\nA’ nung maantak ka zui ding hi\nAma khut in kei hong kha hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1860,7 +1860,7 @@
 
 		"verse1": "Siangtho, Siangtho, Siangtho\nI Topa, Siangtho, Siangtho, Siangtho\nVantung i zin Pa, Amen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1899,7 +1899,7 @@
 
 		"verse3": "Dahna khua a mial laitakin\nHong liah in, minthan’ ni zingsang mateng in\nHong liah in, Zawden gun gei a nai ciangin\nNa ang sungah hong tumsak in\nA kip tawntung suangpi pha aw, hong liah in",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1938,7 +1938,7 @@
 
 		"chorus": "A lian Suangpi ka beel nuam hi\nKeimah sang aa a saang zaw Suangpi\nA lian Suangpi ka beel nuam hi\nKeimah sang' a sangzaw Suangpi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -1983,7 +1983,7 @@
 
 		"verse6": "Tanglai-a a lian bel Topa\nNung ciang-a lawpna hi\nGimna thuak ciang hong keem pha in\nNa inn ah hong koih in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2024,7 +2024,7 @@
 		
 		"chorus": "Amah in nang a honggum thei lai hi\nAma khut in gal liahna hi ding hi\nAmah in nang hong gumthei lai ding hi\nTua hi aa lau kei in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2067,7 +2067,7 @@
 		
 		"chorus": "Pasian in hong keem hi\nNisim in ah, tawntung in ah\nAmah in hong keem hi\nPasian in hong keem hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2102,7 +2102,7 @@
 		
 		"verse1": "Amen, Amen, Amen, Amen\nAmen, Amen, Amen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2141,7 +2141,7 @@
 		
 		"verse3": "Hih ka Pa' leitung hi\nKe'n mangngilh ngeikei ning\nA sia lamsang a hat hangin\nUk lai Pasian mah in\nHih ka Pa' leitung hi, Gal kizo nailo hi\nZeisu lungkim nailo ding hi\nLei le van kikhat ma'n",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2182,7 +2182,7 @@
 
 		"chorus": "Hong liah ta in\nHong gum Topa hong liah in\nLau lohna na kiang\nKeimah hong omsak in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2223,7 +2223,7 @@
 		
 		"chorus": "A khutkuak sung muan huai hi\nA khutkuak sung muan huai hi\nBangbang hong kiimvel hang lau om nawnlo\nA khutkuak sung muan huai hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2266,7 +2266,7 @@
 		
 		"chorus": "Hong gum Topa ko in\nHong thupiak ngai in\nZingsang mateng kong ompih ding\nLau ke'n hong gum ding kong pai hi\nHi hi, zingsang mateng ompih ding\nLau ke'n hong gum ding kong pai hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2309,7 +2309,7 @@
 		
 		"chorus": "Gal hong tun zawh loh na'ng in ah\nTopa in kei hong keem ding ta\nTopa in a kha liim nuai ah\nTawntung kei hong keem ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2352,7 +2352,7 @@
 		
 		"verse5": "Kumkhua sawt aa, tumbang vuai dong ka mite\nTuibang kiam lo mu bang ngah, kum khua om ding\nNa Pa ang leh, sum leh sam a kang zongin\nKa ang lai ah kip takin, von bang sia ning\nKa ang lai ah kip takin, von bang sia ning",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2393,7 +2393,7 @@
 
 		"chorus": "Tua bangin u le nau\nPasian lam ah na lungkip hen\nCikmah hun lungkia lo in\nPasian kiang i tun ciangin\nLungnopna bangzah takin a om diam",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2434,7 +2434,7 @@
 		
 		"chorus": "Lam hong hilh bang zui ning\nLungdam takin zui ning\nGumpa hong hilh bang lam zui ning\nLungdam tak zui ning",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2477,7 +2477,7 @@
 
 		"chorus": "Suangpi kitam sung, keima kha hong liahsak\nTua suangpi'n gam gawtak liapsak\nA itna sungah ka nuntaakna phum ta\nAma khutin kei hong hum ta\nAma khut in kei hong hum ta",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2518,7 +2518,7 @@
 		
 		"chorus": "A' kha nuai ah hong itna pan\nKua mah'n hong khen zolo ding\nA' kha nuai ah keima kha teeng ding\nLungmuang tak om tawntung ding",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2561,7 +2561,7 @@
 		
 		"verse5": "Topa a si, lam tawntung ah kia in\nTua si in mualtung lam hong lak\nA gammang tua tuuno aa ding hong luang hi\nTuucingpa in hong ciahpih kik ding\nKa Topa aw, na khutte liam gawp zo aa\nAmaute tuzan ling in sun gawp zo\nAmaute tuzan ling in sun gawp zo",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2602,7 +2602,7 @@
 		
 		"chorus": "Hunte manlang in bei-in i tawlnga den ding\nLung khamna om nawnlo ding\nInn i tun' ciang",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2643,7 +2643,7 @@
 		
 		"chorus": "Nang kong beel hi, Nang kong beel hi\nNangmah kong beel hi, a kip thupha Suangpi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2684,7 +2684,7 @@
 		
 		"chorus": "Ni khat ni ciang, lungdamna ni\nTua la ngaihpi kasa thei ding\nTua la noptakin kasak ciang\nZeisu kiang vantung ka tun ciang",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2727,7 +2727,7 @@
 
 		"chorus": "En un Topa Pasian in\n\"Tate aw,\" hong cihna Pasian tate i tang ding hi\nEn un, Topa Pasian in\nEi hong it thupha phatna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2768,7 +2768,7 @@
 		
 		"chorus": "Kei hong phong hi! kei hong phong hi!\nItna in a cimawh, kei hong phong hi\nKei hong phong hi! kei hong phong hi!\nItna in a cimawh, kei hong phong hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2809,7 +2809,7 @@
 
 		"chorus": "Lam hong hilh in, Topa lampi hong hilh in\nHuan gun gei ah lampi ah\nHong gum Topa hong hilh in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2852,7 +2852,7 @@
 
 		"chorus": "A lamdang bel dipkuat huai\nZeisu hong itna hi\nEimah hong gup nading amah'n\nKalvari mual si hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2887,7 +2887,7 @@
 		
 		"verse1": "A-men,  A-men,  A - - - men",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2928,7 +2928,7 @@
 		
 		"chorus": "Khawl ing, khawl ing,\nLauna pan lungmuang khin zo ing\nKhawl ing, khawl ing\nTawntung angsung ah kei khawl ta ing!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -2971,7 +2971,7 @@
 		
 		"chorus": "Hong it hong ngaihna a thupha\nKimkhat beek gen nai kei\nHong sawp siangthona a thupha\nKimkhat beek gen nai kei",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3006,7 +3006,7 @@
 		
 		"verse1": "Kote hong thumna\nHong ngai in, Topa\nKo lam hong nga inla\nHong pia'n lungnopna... Amen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3047,7 +3047,7 @@
 		
 		"verse4": "Betlehem Naungek siangtho aw\nKo kiangah hong kum aw\nKote mawhna hawlkhia inla\nHong suak in ko sungah\nNang suah tangko van mite'n\nLungdamna thu hong gen\nHong pai in hong om in ko tawh\nImanuel Topa aw",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3074,7 +3074,7 @@
 		
 		"zoTitle": "Vantung Mite La",
 		
-		"engTitle": "The Angles Song",	
+		"engTitle": "The Angels Song",	
 		
 		"key": "Key: Ab",
 		
@@ -3088,7 +3088,7 @@
 		
 		"chorus": "A sang belah minthang hen aw\nLei ah mite tung nopna om hen\nKhangsawm te'n tu bang ciing hen aw\nLei in pahtawi kikkik hen",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3129,7 +3129,7 @@
 		
 		"chorus": "Va bia ni, hong pai ta un\nVa bia ni, hong pai ta un\nHong pai un, va bia ni Khazih Topa",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3170,7 +3170,7 @@
 		
 		"verse4": "Hong hehpihna thupha bel in\nLeitung hong uk ding hi\nA minthang siangtho hong itna\nMi khempeuh theisak hi\nMi khempeuh theisak hi\nMi khem, mi khempeuh theisak hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3211,7 +3211,7 @@
 		
 		"verse4": "Hong tung Topa lungdamna ni\nI lungsim a hong lawpsak ding\nZan khuamialna hong beisak in\nMeiite khengin khuavaak hong pia!\nItazilla te aw nuam un\nNo kiang Immanuaila hong pai",
 
-		"style": "",
+		"style": "12/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3250,7 +3250,7 @@
 		
 		"verse3": "A mong nei lo ukna kicing\nA khang semsem ding hi\nVan aa tokhom tung thumanna\nA nuai ah kilemna\nVan aa tokhom tung thumaanna\nA nuai ah kilemna",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3293,7 +3293,7 @@
 		
 		"chorus": "Noel, Noel, Noel, Noel\nItazila Kumpipa suak",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3334,7 +3334,7 @@
 		
 		"verse4": "Thei un, hong tung petmah ding ta\nTang kamsangte gensa\nA kum a kha hong vei ding aa\nHong tung ding kham hunpha\nLeitungah nopna lemna pha\nA vaang hong taang ding ta\nVantung mite hong sak la pha\nLeitung mi'n dawng ding ta",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3373,7 +3373,7 @@
 		
 		"verse3": "Zeisu lungdamna pia hi\nMi siangtho a min kici\nNatna gimna a omlo\nA taang vantung a mial lo\nVangliatna a paai Maangpa\nSih kikna a pelsak Pa\nMisi hingkik sak ding aa\nZeisu in leitung hong suak\nVantung mite'n la sa hi\n\"A suak Topa minthang,\" ci",
 
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3416,7 +3416,7 @@
 		
 		"chorus": "Keima lungsim sung hong om in!\nNang aa ding omna a om hi\nKeima lungsim sung hong om ta in!\nNang aa ding omna a om hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3457,7 +3457,7 @@
 		
 		"verse4": "I khuavaak hong tung ta, eite i lungdam hi\nVantung mite' sak la, eite'n i sasawn hi\nSa un vantung mite'n hong puak lungdamna thu\nEi hong honpa Kumpipa hi, Zeisu",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3496,7 +3496,7 @@
 		
 		"verse3": "Tapidawte nuam un, lungdam in kipaak un\nSih ding tu in lau nawnlo\nLau lo hong hon ding Zeisu suakzo\nEite saploh hong neilo\nAma innpi sung kua utlo\nHong hon ding suakzo, Hong hon ding suakzo",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3535,7 +3535,7 @@
 		
 		"verse3": "Ka kiangah naitakin hong ompih inla\nKa Topa Zeisu aw kei hong ngai inla\nNaupangnote khempeuh hong keem ciat inla\nNang kiang omthei nangin a pha'n hong bawl in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3576,7 +3576,7 @@
 		
 		"verse4": "Dai dide, Zan siangpen!\nAksi pi'n hong taan hen\nVantung mite bangin ah\nSa un Kumpi phatna la\nHong Honpa hong suak hi\nHong Honpa hong suak hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3621,7 +3621,7 @@
 		
 		"verse6": "Van ah Pasian min lian hen la\nLeitung nuamna om hen\nHong hehpihna leh hong itna\nMi tung om tawntung hen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3662,7 +3662,7 @@
 		
 		"chorus": "Thang...ta hen\nPasian minthang ta hen\nThang...ta hen\nVan aa sang bel Pasian",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3703,7 +3703,7 @@
 		
 		"verse4": "Amah'n hong it, hong tat manin\nNung ciang a meel mu ding hi\nVantungah Pasian taklam ah\nTokhom tungah tu ding hi\nA tate'n puanpaak silh in\nA kiim ah a uum ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3746,7 +3746,7 @@
 		
 		"chorus": "Aw, lamdang mahmah zan aksi\nKumpi vaang a taang aksi\nHong masuan in, lam hong hilh in\nKhuavaak tak phual hong tun in",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3787,7 +3787,7 @@
 		
 		"verse4": "Topa thakhat Ama innah\nHong kilang ding, ci-in ah\nNgak aa, lawp aa, lametna tawh\nBia aa om misiangte aw\nHong pai ta un, Hong bia ta un\nSuak thak Khazih hong bia un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3822,7 +3822,7 @@
 		
 		"verse1": "Zeisu hoihna keima sung kilangh sak in\nA lamdang hong itna leh A siangthona\nAw Pasian Kha Siangtho\nKei pumpi hong sawpsiang\nZeisu hoihna keima sung kilangh sak in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3865,7 +3865,7 @@
 		
 		"chorus": "Mawh phelna nuam vanglianpi\nLung damsak ning, A min phatna\nSian'thona pha, Vantung om hi\nKei ta'ng si hi, Zeisu Khazih Topa",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3908,7 +3908,7 @@
 		
 		"chorus": "Vuuk sang ka ngozaw tham nading in\nTopa aw Nangma sipha tawh hong sawp in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3953,7 +3953,7 @@
 		
 		"chorus": "A lamdang tangthu la sa ning\nZeisu si hi kei taang ding\nLiimlangh tuithuuk gei kikhop ciang\nMi siangthote tawh sa ning",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -3994,7 +3994,7 @@
 		
 		"verse4": "Galte khutsung ka tung zongin\nZeisu kei aa ding hi\nKisiatna in hong uum hangin\nZeisu kei aa ding hi\nLeitung gal a kido hangin\nKa kha in a kap hangin ah\nTopa min tawh ka zo ding hi\nZeisu kei aa ding hi",
 		
-		"style": "",
+		"style": "3/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4035,7 +4035,7 @@
 		
 		"verse4": "Zeisu ah deihna teng cing hi\nLawmpha zaw deih tuan keng\nAmah tu in ke'n ka muang aa\nMuang lai ding sih mateng\nHihbang Lawm tawh nuntaak a nuam\nBei ngeilo ding hinna a nuam\nBei ngeilo nuntaakna, nuamna keima Lawm",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4078,7 +4078,7 @@
 		
 		"verse5": "Topa Zeisu Nangmah sim lo\nNuamna dang om nawnlo\nTu leh nung ciang a tawntungin\nKomau phat ding om in",
 
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4117,7 +4117,7 @@
 		
 		"chorus": "Hon ding zong hi, Hon ding zong hi\nA mangte Zeisu’n, Hon ding zong hi\nHon ding zong hi, Hon ding zong hi\nA mangte Zeisu’n, Hon ding zong hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4160,7 +4160,7 @@
 		
 		"chorus": "Hizo ding hiam, Topa Zeisu\nKei hong it man’n si hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4203,7 +4203,7 @@
 		
 		"chorus": "Nungta kik Na thupha\nNa mai khukdin’ ciangin\nTopa aw, hong kumsuk inla\nThupha bel hong pia in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4244,7 +4244,7 @@
 		
 		"chorus": "Hong gupna, hong gupna\nThupha bel hong tung hi\nHong gum ta, hong gum ta\nTopa Zeisu Kumpi",
 		
-		"style": "",
+		"style": "3/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4287,7 +4287,7 @@
 		
 		"chorus": "Min manpha, ngaih mahmah!\nLeitung mite' lametna\nMin manpha, ngaih mahmah\nVantungah lungdam nuamna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4330,7 +4330,7 @@
 		
 		"verse5": "Ka sih taang ding Topa Zeisu, singlamteh tungah si hi\nAma lawmte in a vui aa, ni thum ciang a thokik hi\nTu’n vantung khua ah a om aa, mi khempeuh a hehpih hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4373,7 +4373,7 @@
 		
 		"chorus": "Zeisu in hong Gumpa hi. A lamdang ka sa hi\nKeima Topa Zeisu in, Hong Gumpa a hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4414,7 +4414,7 @@
 		
 		"chorus": "Kua’n a si ding honkhia a hiam?\nAmah’n bang hih? Koi ah om tu’n?\nVantung ah hong thuumsak hi",
 		
-		"style": "",
+		"style": "2/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4457,7 +4457,7 @@
 		
 		"chorus": "Vantung mi a la sakna\nLeitung mi phabel cihna\nSa ni a ngaih mahmah la\nZeisu phabel min hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4498,7 +4498,7 @@
 		
 		"chorus": "Mual sang tung a gamla ah pai ni\nA vaak mite lakik in\nMawhnei mi ta'ng ding a si Tuuno\nI honpa' tuubuuk ah khum in",
 		
-		"style": "",
+		"style": "9/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4541,7 +4541,7 @@
 		
 		"chorus": "Keimah a hong zong hi, zong hi\nKeimah a hong zong hi\nMaw lamdang nuamna a minpha mahmah\nKeimah a hong zong hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4582,7 +4582,7 @@
 		
 		"chorus": "Gupkhiat, gupkhiat\nGupkhiat, gupkhiat\nTuuno si tawh gupkhiat ka hi\nGupkhiat, gupkhiat\nGupkhiat, gupkhiat\nA tawntung Ama ta ka hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4623,7 +4623,7 @@
 		
 		"chorus": "Ka it hi, ka it hi. Amah’n hong it masa\nKalani khuam tung gupna hong leisak hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4664,7 +4664,7 @@
 		
 		"chorus": "Zeisu tangthu kei hong hilh in\nA thu ka lungsung gelh in\nA manpha pen Zeisu tangthu\nKei hong ciamteh theisak in",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4707,7 +4707,7 @@
 		
 		"chorus": "\"Zeisu,\" Aw! bangzah a ngaih min!\n\"Zeisu\" nisim in tua mah\n\"Zeisu\" kici tua min manpha\nPhat tek ni, a a tawntung",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4752,7 +4752,7 @@
 		
 		"chorus": "Kuamah peuhmah in thu um leh\nHin' tawntungna pha ngah ding hi\nHin' tawntungna pha ngah ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4793,7 +4793,7 @@
 		
 		"verse4": "Ahih hang khitui taakna in\nItna loh khinzo kei\nTopa, ka pumpi kong pia hi\nHih kan' ka hih thei kei",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4838,7 +4838,7 @@
 		
 		"verse6": "Pasian citna leh hong itna\nHi bang ka theih nungsang\nLungsim tuul nei leng zong, Topa\nKong pia khin ding hi Nang\nKong pia khin ding hi Nang",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4881,7 +4881,7 @@
 		
 		"chorus": "Singlamteh, singlamteh\nKa kisak theihna hi\nVantung khua ka tun ciangin\nA nuam ka ngah na’ng hi",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4920,7 +4920,7 @@
 		
 		"verse3": "Zeisu singlamteh liim sung\nKeima omna a hi\nZeisu maitang vaang sim lohin\nNi taang dang omlo hi\nLeitungah sum bangin\nTuate a met zangthei lopi\nKa mawhna zumhuaina a hi\nSinglamteh thahna hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -4959,7 +4959,7 @@
 		
 		"verse3": "Zeisu singlamteh liim sung\nKeima omna a hi\nZeisu maitang vaang sim lohin\nNi taang dang omlo hi\nLeitungah sum bangin\nTuate a met zang thei lopi\nKa mawhna zumhuaina a hi\nSinglamteh thahna hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5002,7 +5002,7 @@
 		
 		"chorus": "Amah’n pha takpi hong it hi\nAmah i itkik hi\nA hong gum thei a si um in\nAma na i seem ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5045,7 +5045,7 @@
 		
 		"verse5": "It huai Tuuno Na si manpha, bei hun nei ngeilo ding\nGupna ngah miteng kikhawm ding, mawh ngei nawnlo ding hi\nMawh ngei nawnlo ding hi, mawh ngei nawnlo ding hi\nGupna ngah miteng kikhawm ding, mawh ngei nawnlo ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5086,7 +5086,7 @@
 		
 		"verse4": "Leitung khempeuh piathei hileng\nTam lua kaci ngeikei ding hi\nA hong itna ke’n ngaihsun leng\nKa pum ka tak ka pia nuam hi",
 		
-		"style": "",
+		"style": "2/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5129,7 +5129,7 @@
 		
 		"chorus": "Getsemani mangngih loh na’ng\nNa thuakna ka mangnglih loh na’ng\nNong itna ka mangngilh loh na’ng\nKalvari’n hong paipih’n",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5170,7 +5170,7 @@
 		
 		"chorus": "Vuuk sang ngo zaw hi\nVuuk sang ngo zaw hi\nTuuno si tawh hong sawpsiang leh\nVuuk sangin ka ngo zawk nading hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5215,7 +5215,7 @@
 		
 		"chorus": "A zo zo hi! Takpi hi\nVekpi’n zo khin hi\nHih hi, mawh neite i sap\nMawhna pulak ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5256,7 +5256,7 @@
 		
 		"chorus": "Aw Kalani, Aw Kalani\nTopa Zeisu sihna thuak hi\nAw Kalani, Aw Kalani\nHong gum Topa, kei aa ding si",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5283,7 +5283,7 @@
 		
 		"zoTitle": "Muh Khopna Ah Hin’na Om Hi",
 		
-		"engTitle": "There is A Life for a Look",	
+		"engTitle": "There is A Life For A Look",	
 		
 		"key": "Key: G",
 		
@@ -5299,7 +5299,7 @@
 		
 		"chorus": "En un, hing ta un\nA kikhai mipa en in hin na ngah ta un\nThakhat in hinna pha ngah ta un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5338,7 +5338,7 @@
 		
 		"verse3": "Hong pai in, a honzo pen Pa\nNang' nuntakna hong guan in\nNa inn ah hong taam mengin la\nPaikhia nawn peuhmah kei in\nThupha kong piapia ding uh aa\nNa na ka seem ding uh hi\nNa itna sungah kipaak ta\nTawlnga lo kong phat ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5381,7 +5381,7 @@
 		
 		"chorus": "Hong itna kam' gen zawh hilo\nHong itna kam' gen zawh hilo\nZeisu in keimah hong itna\nKam aa gen zawh hilo",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5408,7 +5408,7 @@
 		
 		"zoTitle": "Singlamteh Ka Kipakna Hi",
 		
-		"engTitle": "In the Cross of Christ of I Glory (Tune: Rargbun)",	
+		"engTitle": "In the Cross of Christ I Glory (Tune: Rargbun)",	
 		
 		"key": "Key: C",
 
@@ -5420,7 +5420,7 @@
 		
 		"verse4": "Lungdamna thupha na zaak ciang\nHong pai in, ci’n hong sam\nUpna tawh A si sung bual leeng\nVuuk bang hong ngosak ding",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5463,7 +5463,7 @@
 		
 		"verse5": "Biakna vantung Tuuno\nA umte nopsakna\nKe’n um aa ka biak ka nuam zo\nKa phat ding a itna",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5506,7 +5506,7 @@
 		
 		"chorus": "Hong pai hih tuikhuuk\nHong luang hi, tuni’n\nHong pai khempeuh man ngen lo-in\nNa mawh hong sawpsak ding",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5549,7 +5549,7 @@
 		
 		"chorus": "Aw! Lamdang hi tua sisan luang\nGumpa’ pang pan phulkhia\nVantung dongah la in sa ning\n\"A manpha bel sisan\"",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5592,7 +5592,7 @@
 		
 		"chorus": "Si sung vaanglian, vaanglian lamdang om\nTuuno sisan sungah\nSi sung vaanglian, vaanglian lamdang om\nA manpha Tuuno si sungah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5635,7 +5635,7 @@
 		
 		"chorus": "Tua singlamteh ke’n ngilh ngeikei ning\nZawhna minpha ka tut zawh mateng\nTua singlamteh khah lo lenlen ning\nKham lukhu ka khekna ni mateng",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5678,7 +5678,7 @@
 		
 		"chorus": "Hong Gumpa Topa naak sungah\nSisan leh tui hong luangkhia hi\nKa lung sungah om tawntung hi\nMawhna kisawp siang zo",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5719,7 +5719,7 @@
 		
 		"verse4": "Mi siangthote tampi, tangval\nNungak leh, nu leh pa\nPuanpaak silh in Zeisu mai ah\nLungdamna la hong sa.\nLauna, nasepna, gimna in\nVantung lam kahto hi.\nTopa amau nung zuih nading\nKo mau Nong huh ding hi.",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5746,7 +5746,7 @@
 		
 		"zoTitle": "Awngun, Awngun La Kiko Un",
 		
-		"engTitle": "Lift up, Lift up, Your Voices now",	
+		"engTitle": "Lift up, Lift up, Your Voices Now",	
 		
 		"key": "Key: Eb",
 		
@@ -5760,7 +5760,7 @@
 		
 		"verse4": "Gal zopa aw, hong do pih in\nSihna pan khuavaak hong tun in\nNang' nung tawn leeng lung himawh lo\nNang' sung si leeng Pasian kiang tho",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5801,7 +5801,7 @@
 		
 		"chorus": "Hing ee, hing ee, hong hon Khazih Topa\nHong tonpih aa, hong hopih hi\nKa paina khempeuh ah\nHing ee, hing ee, mihing honkhia Topa\nBang ka ci theih hiam\nNong cih leh, Ka lungsung ah hing hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5840,7 +5840,7 @@
 		
 		"verse3": "Vantung khempeuh zong nuam ni\nLeitung in zong phat hen\nLeitung khempeuh gualzawh ni\nNa khempeuh a kim ni\nMuhtheih muhmawh khempeuh in\nLungdamna la sa un\nA bei ngeilo lungdamna\nIh Topa hong thawh ni",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5881,7 +5881,7 @@
 		
 		"verse4": "Minthang Kumpi hingkik zo, Hallelujah\nSihna gu koi ah om? Hallelujah\nKhatvei si in hong gum zo, Hallelujah\nHankhuk na zawhna koi om? Hallelujah.",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5922,7 +5922,7 @@
 		
 		"chorus": "Hansung pan hong thoto zo\nVanglianpi tawh galte zogawp zo\nKhuamial gam pan galzo in hong thoto hi\nA mi siangte maan’ pih ding hingkik zo hi\nHingkik zo, hingkik zo, Hallelujah hingkik zo",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -5963,7 +5963,7 @@
 		
 		"chorus": "Ka thei, ka thei, To Zeisu hing hi\nLeitungah hong paikik ding hi\nKa thei, ka thei, nuntaakna hong pia\nHehpihna Vaang A khut sung om",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6004,7 +6004,7 @@
 		
 		"chorus": "A hingkik Topa, minthanna Nang aa\nBei ngeilo zawhna tawh, Sihna Na zozo",
 		
-		"style": "",
+		"style": "2/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6045,7 +6045,7 @@
 		
 		"verse4": "Zeisu aw, Na thu kip takin\nKa um, ka muang zo hi\nNangma kiangah hong la dingin\nNong pai takpi ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6089,7 +6089,7 @@
 		"verse5": "Hih leitung aa, minam kim in\nZeisu lianbel sak un\nLiantna khempeuh Ama aa ci'n\nKumpi lianbel pian un\nKumpi...lian Kumpi, Kumpi, Kumpi\nKumpi, Kumpi, lianbel pia un",
 	
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6130,7 +6130,7 @@
 		
 		"chorus": "(Aw Galile) Aw Galile\n(A nuam gampi)a nuam gampi\n(Zeisu deihna) Zeisu deihna\n(Tampi om hi) tampi om hi\nAw Galile (Aw Galile)\nA nuam gampi (a nuam gampi)\nLa sa in la (la sa in la)\nKhatvei sakik (khatvei sakik)",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6170,7 +6170,7 @@
 		"verse3": "Thum kigawm Pasian phat un, van mihonte aw\nPhat un Pa leh a Tapa, leh Kha Siangtho\nA beisa hun aa bangin\nA tawntung in gingging den hi\nMinthang, minthang hen, Pasian, a sangbel ah",
 		
 		
-		"style": "",
+		"style": "2/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6212,7 +6212,7 @@
 		"verse4": "Mawhna khempeuh hong phelzo hi\nMi vaitham zong gum khia\nMi vaitham zong gum khia\nA sipha bel hong luangsak hi\n(Eite hong itna hi)x3\n(Hong hehpihna phat ni)x2",
 		
 		
-		"style": "",
+		"style": "3/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6255,7 +6255,7 @@
 		
 		"chorus": "Gupkhiat ka hih nungsang\nGupkhiat ka hih nungsang\nA ma min tawh vaanglian ning\nGupkhiat ka hih nungsang\nKa Honpa' min in ka vaanglian ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6298,7 +6298,7 @@
 		
 		"chorus": "Lungsim phabel, hong guansuk in\nTua Kham khuapi ka muh nading\nLungsim sung hong taangsak in\nTua khuapi nuam kei aa ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6341,7 +6341,7 @@
 		
 		"chorus": "A manpha pen suang ke’n mu ing\nLungdam in la kasa\nZeisu kei aa ci’n la sa ning!\nKhazih la in sa ning",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6384,7 +6384,7 @@
 		
 		"chorus": "Hong gumzo, hih hang ngun hi kei\nHong leizo, kham tawh hilo\nA si tawh kei hong gumzo hi\nHong itna ki gen naikei",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6425,7 +6425,7 @@
 		
 		"verse4": "A tawntung aa Kumpi, hun bawl a uk Mangpi\nLeitung pumpi Na piangsak zo\nGen theih loh Na Siangtho\nHong tan ka Topa aw\nKei’ taang Nang hong si maw!\nNang min phat tawp ngeilo ding hi’ng\nA tawntung sa ding hi’ng",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6468,7 +6468,7 @@
 		
 		"chorus": "Zeisu, Zeisu, Zeisu\nMin teng pan ngaih pen\nLunggulh teng kicin’na\nLa hong sasa nuamsak den",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6512,7 +6512,7 @@
 		"verse5": "Hoihna leh migitna te in\nKa khan tawntung kei hong\nZui den ding aa Pasian inn sung\nKa ten na’ng hi den ding",
 		
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6551,7 +6551,7 @@
 		
 		"verse3": "Ni taang a pha mahmah, kha taang a pha zaw hi\nAksite zong te ding hoih hi\nVan aa na khempeuh sangin Zeisu in\nA pha zaw in a taang thei hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6591,7 +6591,7 @@
 		"verse3": "Phat un, phat un, eite hong tan thupha Zeisu\nAmah phatna’n vantung innpi thawn hi\nMaang tawntung ta, eite hong hon Topa Zeisu\nKamsang, Siampi, Kumpiza ngah ta hi\nKhazih hong kum ciang leitung zo gawp ding aa\nUkna, vaangliatna khempeuh Ama aa\nPhat un, phat un, A liatna pha demzo omlo\nPhat un, phat un, nuamna la tawh phat un",
 		
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6634,7 +6634,7 @@
 		
 		"chorus": "Ute naute, i kiging ciat zo hiam?\nI kha inn nuam lut nading\nNangmah leh kei kiging sa’n hong mu diam?\nNgak in, Topa hong pai ding ngak in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6677,7 +6677,7 @@
 		
 		"chorus": "Aw, Topa cik ciang hi ding hiam\nKo kiang nong paikik ding\nHong paikik ding, Haleluiah, Haleluiah\nAmen, Haleluiah Amen",
 		
-		"style": "",
+		"style": "3/4 + 4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6718,7 +6718,7 @@
 		
 		"chorus": "Vantung ah min hong sap laitak\nVantung ah min hong sap laitak\nVantung ah min hong sap laitak\nMin hong sap laitak keimah zong om ding hi’ng",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6759,7 +6759,7 @@
 		
 		"chorus": "Mopipa hong pai ciang na kithawi diam?\nMopipa hong pai ciang na kithawi diam?\nZingsang, sun leh zan hi zong\nNa meivakte taang pha in,\nMopipa hong pai ciang na kithawi diam?",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6800,7 +6800,7 @@
 		
 		"chorus": "A baih sa’n om, a baih sa’n om\nA baih sa’n om, Mopi hong pai ciang",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6841,7 +6841,7 @@
 		
 		"chorus": "Nuam si’ng! nuam si’ng!\nHong lungdamsak ding hi\nNuam si'ng! nuam si'ng!\nAmah Kumpi ding hi\nNuam si’ng! nuam si’ng!\nLampi puah mengmeng ni\nNuam si’ng! nuam si’ng!\nZeisu hong pai ding hi",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6868,7 +6868,7 @@
 		
 		"zoTitle": "Ngai Un! Tul Sawm Gawsem Leh Aw Ging",
 		
-		"engTitle": "Hawk! Ten Thousand Harps and Voices (Tune: Harwell)",	
+		"engTitle": "Hark! Ten Thousand Harps and Voices (Tune: Harwell)",	
 		
 		"key": "Key: G",
 		
@@ -6880,7 +6880,7 @@
 
 		"verse3": "Gumpa hong zekai lua kei in\nNa minthan’ ni tungsak in\nA lamdang thu sitna hun ciang\nLeitung, vantung a bei ding hi\nTua ciang kham gawsemtum in\nThang hen (thang hen, ka Kumpi!)\nHaleluiah! Haleluiah! Haleluiah! Amen",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6923,7 +6923,7 @@
 		
 		"chorus": "Gam minthang hong piang a hun tungdek ta hi\nGam minthang hong piang a hun tungdek ta hi\nKisa kholin ka kha aw, sawtlo peengkul tum ding hi\nKumpipa minthang tawh hong pai ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -6966,7 +6966,7 @@
 		
 		"chorus": "Zeisu hong pai ding, hong paikik ding hi\nZeisu hong paikik ding hi\nLungdam in, lapha sa un nuam ding hi\nZeisu hong paikik ding hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7005,7 +7005,7 @@
 		
 		"verse3": "Tua ni a lauhuai ni theih kholh lohin\nHong tung ding hi\nMeivak vaak in na meivak tui a dim takin thun in\nZingsang nitaak sunkim \nZankim a hun ding kithei lo\nZipipa hong tung zo \nA dawn ding kuankhin un ci ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7048,7 +7048,7 @@
 		
 
 		
-		"style": "",
+		"style": "2/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7090,7 +7090,7 @@
 		"verse4": "Kha Siangtho a dik mi aw\nKa lungsim sungah om aw\nMilim khempeuh susia in\nNangmah guakbek na maang in",
 		
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7117,7 +7117,7 @@
 		
 		"zoTitle": "Huhpa Hong Pai Khin Ta ",
 		
-		"engTitle": "The Comforier Has Come",	
+		"engTitle": "The Comforter Has Come",	
 		
 		"key": "Key: C",
 		
@@ -7133,7 +7133,7 @@
 		
 		"chorus": "Huhpa hong paikhin ta!\nHuhpa hong paikhin ta!\nVantung Kha Siangtho pen\nPa’n piak ding hong ciam pen\nLungdam thu zeelsak un\nMi omna citeng ah\nHuhpa hong paikhin ta!",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7172,7 +7172,7 @@
 
 		"verse3": "Nasepna hun bei ta aa\nVantung tun ding bek om ta\nKei min zong a om buang tam\nZeisu si bek ka paulam\nSihna gun ka ngah laitak\nHong ci lai, siangtak, teltak\n\"Vantung innpi a zuan mi\nHong zui in, Kong kha ding hi\"",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7214,7 +7214,7 @@
 		"verse4": "Pasian nunna hong pia’n\nSi ngei nawnlo dingin\nNang tawh hong nungta khawm sak in\nHin’ tawntungna gam ah, Amen",
 		
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7256,7 +7256,7 @@
 		"verse4": "Kha Siangtho vakhu bangin ah\nHong pai in vanglian tawh\nGumpa itna hong buak inla\nTawh kuangsak in ko mei, Amen",
 		
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7295,7 +7295,7 @@
 		
 		"verse3": "Gen kholhna thute khempeuh\nKhuavaak bangin mangthang ding\nKi itna thu bek kip ding\nVantung ki itna",
 
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7335,7 +7335,7 @@
 		"verse3": "Kumpipa’n hong kuanpih in\nLaulo kong zui uh hi\nNa mai kimuhna peuhah\nLungdamna khuavaak hi\nNa singlamteh ko tungah\nLam pai na’ng hong taang in\nGal zawh lukhu’n hong ngak hi\nPasian aw hong pi in",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7362,7 +7362,7 @@
 		
 		"zoTitle": "Khazih Galkapte’n Ah",
 		
-		"engTitle": "Onward, Christian Soldires (Tune: St. Gertrude)",	
+		"engTitle": "Onward, Christian Soldiers (Tune: St. Gertrude)",	
 		
 		"key": "Key: F",
 		
@@ -7380,7 +7380,7 @@
 		
 		"chorus": "Zeisu galkapte’n ah, gal kap ding kuan un\nSinglamteh pua unla, na mailam nawt un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7413,7 +7413,7 @@
 
 		"verse1": "Topa’n thupha hong pia hen\nTopa’n nangmah hong en in hong keem hen\nLung nopna zong hong guan ta hen, Topa’n\nA mai nang tung hong taansuk hen\nHong hehpih hen, hong hehpih hen, hehpih hen\nTopa'n hong hehpih, hong hehpih ta hen\nAmen, Amen, Amen, Amen, Amen, A...men",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7457,7 +7457,7 @@
 		"chorus": "Sa in, sa in a la hong taang ta hi\nLamhilh zingsol i tungah paipai un\nI mailam ah, lam hong hilh, hong hilh\nHong gum Topa A min,\nA minthang kiza tawntung henla\n\"Hawsiana, Hawsiana\" kiko tawntung ni\nA galkap mite'n ngai un\nZeisu Topa bek thei ni\n\"Haleluiah\" kiko ni paina tengah",
 
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7501,7 +7501,7 @@
 		"verse5": "Na thumaanna bangin\nZion mual ah na sang ding\nLeitung minthan nate bei in\nNuam zaw vantung thupha",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7546,7 +7546,7 @@
 		
 		"chorus": "Nungta in hong it, si in hong hon hi\nKivui in ka mawhna a puakhia hi\nThokik in hong diksak, khawnkhong tawntung hi\nLungdam huai bel hi, hong paikik ding ni!",
 		
-		"style": "",
+		"style": "9/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7589,7 +7589,7 @@
 		
 		"chorus": "Ahih hang ka Uppa ka thei hi\nAmah muan huai hi, ke'n ka theizo hi\nAma tung ka piaksate zong\nKeem zo ding hi tua ni dong",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7616,7 +7616,7 @@
 		
 		"zoTitle": "Tanglai Pate’ Upna",
 		
-		"engTitle": "Faith of Our fathers! Living Still ",	
+		"engTitle": "Faith of Our fathers! Living Still",	
 		
 		"key": "Key: Ab",
 		
@@ -7628,7 +7628,7 @@
 		
 		"verse3": "Upna i cih pate’ up bang\nTual leh gal kidona sungah\nBang hangin teltak theihna tawh\nGitna itna kammal tawh lak\nPate’ upna, upna siangtho!\nEi zong sih dong i thuak ngam ding",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7668,7 +7668,7 @@
 		"verse3": "Tua khuapi laibu sung panin\nKeima min a kikhum leh\nLawki te’n hong ko hangin ah\nKi sathei in om ning kei\nMawhna tawh nuam a omte in\nKisak theih na mang ding hi\nA manpha bel nopsakna in\nTua khua bekah om ding hi",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7709,7 +7709,7 @@
 		
 		"verse4": "Lungnopna hong tung hen\nLungdam na’n hong zui hen\nMi khempeuh in thupha ngah in\nTopa nopna saang hen\nA pha deihna khangin\nGen zawh loh thupha hong tung hen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7751,7 +7751,7 @@
 		"verse4": "Phat dingin kong pai\nNa Biakinn siangah\nHehpih hong pia Topa\nNa kiang hong kha in\nKong thuciamna khempeuh\nA thakin bawlin\nNasep lian sep nading\nKote hong sawl in.",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7792,7 +7792,7 @@
 		
 		"verse4": "Khazih sungah, i kimat hi\nSak mi, khang mi, pam mi\nKhazih lungsim bang a nei mi\nKhempeuh pumkhat suak hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7833,7 +7833,7 @@
 		
 		"verse4": "Hong bawlsia thei galkapte Pawlpite’n a do leh\nBei ngeilo nop saknapi a ngah ding uh hi ve\nA pha bel mahmah nate a muh uh ciangin ah\nLungdamna a lianpite a ngah ding uh in pha",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7874,7 +7874,7 @@
 		
 		"chorus": "Thumaan in kiptak ding\nKumpipa thupiakna tawh zawh dong\nTopa minthan nading leh\nAma thu gualzawh nading\nTopa thahatna sung kiptak ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7916,7 +7916,7 @@
 		"verse4": "Nong hilh hi nopna ngah na’ng\nLang pan’ mi mawhte thuak na’ng\nKa neih manpha pen na hi\nA siangtho Lai Siangtho bu",
 		
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -7958,7 +7958,7 @@
 		"verse4": "Na lamdanna hi pan mu ung\nKhate thak suah, mawhna maisak\nTopa, ka mawhna silsak inla\nVantung tun dong Na thu’n\nHong keem in, Amen",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8001,7 +8001,7 @@
 		
 		"chorus": "Lai Siangtho beel in, ka nau aw\nLai Siangtho beel in, ka nau aw\nHin’ hun leh sih hun in, na dang teng sangin\nLai Siangtho beel in ka nau aw",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8042,7 +8042,7 @@
 		
 		"chorus": "Thu hoih mahmah, thupha mahmah\nNuntakna thu mahmah\nThu hoih mahmah, thupha mahmah\nNuntakna thu mahmah",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8069,7 +8069,7 @@
 		
 		"zoTitle": "Leitung Aading Lai Siangtho Bu Kihong",
 		
-		"engTitle": "An open bible for the world",	
+		"engTitle": "An Open Bible For The world",	
 		
 		"key": "Key: Bb",
 		
@@ -8085,7 +8085,7 @@
 	
 		"chorus": "Pasian kammal, leitung, tuitung mun khempeuh ah\nKhualmial sung aa vaakthaap mite\nPasian vantung hong tun’ Thu Bu",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8126,7 +8126,7 @@
 		
 		"verse4": "Nangma lungdamna thu in\nMisia puah, mipha hehneem\nNa thupha’n ta tam tawi in\nSiatna khempeuh a pha’n lem\nTua bang piang hen, Nipi teng\nVantung Pawlpi tun mateng\nTua bang piang hen, Nipi teng\nVantung Pawlpi tun mateng",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8168,7 +8168,7 @@
 		"verse4": "Vantung gam mi siangte bang\nHehpihna a dangdang\nTawldam ni Nipi ni pan\nA thuapthuap i ngah hi\nTuni’n phatna kiza hi\nPawlpi mite kam pan\nPhat un thum gawm a siangtho\nPa, Ta leh Kha Siangtho",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8209,7 +8209,7 @@
 		
 		"verse4": "I lamet ni hong tung zo ta\nKhuavaakpi in ei hong taan’ zo\nLeitung haksa nusia ta ni\nTawldam na’ng ihmu phot dih ni",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8246,7 +8246,7 @@
 		
 		"verse2": "Kote thupha hong pia’n\nNang kiang kong tun' na'ng un\nKa ni bang un tha hong pia in\nTha hatna hong guan in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8289,7 +8289,7 @@
 		
 		"chorus": "Ka nuam hi, ka nuam hi\nZeisu’n ka mawh hong phelzo hi\nThungetna zia a hong hilh hi\nNisim in hong lungdam sak hi\nKa nuam hi, ka nuam hi\nZeisun’n ka mawh hong phelzo hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8330,7 +8330,7 @@
 		
 		"verse4": "Mi khempeuh Na mipha suak hen\nLeitung bei hun dongin\nNang tawh kizopna kip ta hen\nNa min kong phat uh hi. Amen.",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8371,7 +8371,7 @@
 		
 		"verse4": "Nong kipiakna ka muang\nNa singlamteh ka delh\nAw, mawh in ko silai ding maw?\nTho in Nangsung hing nung, Amen",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8412,7 +8412,7 @@
 		
 		"verse4": "Topa aw, Kha Siangtho kei hong puak in\nKeima mit khua mulo vaaksak dingin\nNu thuthuuk Lai Siangtho hong telsak ding\nNa Thu sung pan Nang, ko hong musak ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8455,7 +8455,7 @@
 		
 		"chorus": "Manpha hi hong luang si\nVuuk bang hong ngosak si\nTui dang ka theikei hi\nBang dang hilo, Zeisu' si hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8496,7 +8496,7 @@
 		
 		"verse4": "Dawi gam sungpan nangmah\nKong hotkhiat na’ng in ah\nKa thuak gimna pii te\nGen khinzo kei niteh.\n(Nang aa ding gen zawhloh Ka thuak\nKei aa ding bang na thuak) x2",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8537,7 +8537,7 @@
 		
 		"chorus": "Nang Nong vaikhaksa mah bangin\nTopa tuni’n, Na ankuang kong uumpih uh hi, tu’n\nKote tung aa Nang Nong gen thu phawkin\n\"Kei nong phawk denna un hih un\"",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8580,7 +8580,7 @@
 		
 		"chorus": "Hong hehpihna\nI mawhna hong maisak, siangsak hi\nPasian, itna\nI mawhna teng sangin lian zaw hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8621,7 +8621,7 @@
 		
 		"verse4": "Zankim ta aa, Pa Pasian in\nMihing Tapa nusia saam lo\nVantung mite in hehneem in\nMihing Honpa in dahna zo",
 		
-		"style": "",
+		"style": "2/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8662,7 +8662,7 @@
 		
 		"verse4": "Pumpi' utna leh mawhna te’n\nHong nawngkai sakzo nawnlo den\nVantung in hong dawntuah suk ta\nVaang taang in tua tokhom tuam ta",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8703,7 +8703,7 @@
 		
 		"chorus": "Buh lomte khawm in, buh lomte khawm in\nLungdamna tawh buh lomte i khawm ding hi\nBuh lomte khawm in, buh lomte khawm in\nLungdamna tawh buh lomte i khawm ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8744,7 +8744,7 @@
 		
 		"chorus": "Hong paipih’n, hong paipih’n\nKhialhna mun panin hong paipih’n\nHong paipih’n, hong paipih’n\nA mangte Zeisu kiang paipih’n",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8787,7 +8787,7 @@
 		
 		"chorus": "Zeisu hong tun mateng\nZeisu hong tun mateng\nI nasep zawh ciangin\nInn nuam sung om khawm ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8828,7 +8828,7 @@
 		
 		"chorus": "Topa minin na mailam nawt un\nItna deihsakna tawh\nEi hong Gupkhiatna thupha letsong\nLeitung teng thangsak un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8871,7 +8871,7 @@
 		
 		"chorus": "An late kaw’h om, kua hong kuan nuam\nAnlaak pawi sungah kua hong lungdam khawm nuam\nKua’n hong khoppih ding buhlom hoih teng\nMawhna lo sung aa a om buhlom teng",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8914,7 +8914,7 @@
 		
 		"chorus": "Na seeem un, na seem un\nNopna pha na ngaihsun un\nTopa in thahatna a hong pia ding hi\nNitum mateng in na seem un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8955,7 +8955,7 @@
 		
 		"chorus": "Ka lu tung aksi taang, aksi taang a om diam?\nNitaak aa ni a tum ciangin ah\nTawldamna inn sungah\nKa khan lawh ciangin ah\nKa lu tung aksi taang a om diam?",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -8998,7 +8998,7 @@
 		
 		"chorus": "Bang ding? Bang ding?\nTu in hong pailo hiam?\nBang ding? Bang ding?\nTu in hong pailo na hiam?",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9037,7 +9037,7 @@
 		
 		"verse3": "Hong kiu, hong kiu, bang om hiam?\nHong ngak, hong ngak, nang hong ngak\nA kilhcip khut in hong kiu lai\nA Kumpi lukhu nuai pan\nA lungneem leh a migit mai\nHong Gum Topa’n hong ngak lai",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9078,7 +9078,7 @@
 		
 		"verse4": "Kha Siangtho zong hong sam, Amah nial ke’n\nA hong hehpih nuam hi, paikhia sak ke’n",
 		
-		"style": "",
+		"style": "2/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9121,7 +9121,7 @@
 		
 		"chorus": "Hong sam hiauhiau hi, hong thum lailai hi\nTuucing hoih pa’n nang hong sam za in\nHong thum nget-ngut hi, hong sam lailai hi\nItna tawh hong sam, \"Hong pai in,\" ci",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9162,7 +9162,7 @@
 		
 		"chorus": "Hong pai un ka kiang, Hong pai un ka kiang\nLungkham vangik puate, Ka kiang hong pai un\nKa kiang hong pai un, Ka kiang hong pai un\nLungkham vangik puate, Ka kiang hong pai un",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9203,7 +9203,7 @@
 		
 		"chorus": "Mawhna khialhnate siangtho nungah\nTopa mai ah kikhop ciangin ah\nTawntung inn nuam vantung khua sungah\nNuam pha mahmah ding hi",
 
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9244,7 +9244,7 @@
 		
 		"chorus": "Hong samlai! Aw, za in\nHong samlai! Aw, za in\nPa in hong samlai, aw za un\nPa in hong samlai, hong samlai! Aw, za un\nHong samlai! Aw, za un\nPa in hong samlai! Aw, za un, samlai!",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9287,7 +9287,7 @@
 		
 		"chorus": "Na kong za hon’ in, na kong za hon’ in\nNa kong za hon’n, na kong za hon’n\nHong gumthei Amah bek hi\nNa kong za hon’ in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9328,7 +9328,7 @@
 		
 		"chorus": "Tu nitaak na ciah ding hiam?\nTu nitaak na ciah ding hiam?\nKhuamial sung pan khuavaakna sung\nZeisu’ inn na ciah ding hiam?\nTu nitaak na ciah ding hiam?\nTu nitaak na ciah ding hiam?\nHong it vantung i Pa kiangah\nTu nitaak na ciah ding hiam?",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9373,7 +9373,7 @@
 		
 		"chorus": "Zeisu’n loh khinta, Ama tung ka baa\nSi bang sansa ka mawhna\nVuuk bang hong sawp ngo ta",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9418,7 +9418,7 @@
 		
 		"verse6": "Tum in, tum in tua pawi nang aa ding hi\nKi it tawntungna hai kidawn ding hi\nTum in, tu in tum in, omna om lai",
 		
-		"style": "",
+		"style": "4/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9461,7 +9461,7 @@
 		
 		"chorus": "Topa Zeisu minthang Kumpi\nA om na’ng mun tu’n bawl in\nNa lungsim kongkhak tan zau in\nHong in na lutsak ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9500,7 +9500,7 @@
 		
 		"verse3": "Aw, za in A hong thumna, Pai’n mawh neite\nPai in thupha saang dingin, Pai’n mawh neite\nZeisu’n hong huausim lai in, Pai'n mawh neite\nNang aa ding thunget lai in, Pai’n mawh neite!",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9543,7 +9543,7 @@
 		
 		"chorus": "A maan takpi a nang kiangah kong cih in\nA maan takpi a nang kiangah kong cih in\nPasian Tapa a umte maan takin\nA hing tawntung ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9586,7 +9586,7 @@
 		
 		"chorus": "Na kongbiang ah dingin ka om\nHong en in, dam takin kong sam\n\"Kong lut ding hiam? Kong lut ding hiam?\"\n\"Mawh neite aw hong genkik un\"",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9629,7 +9629,7 @@
 		
 		"chorus": "No aa ding in khuavaak a taang hi\n\"Khuamial sungpan hong pai in\" ci hi\nMittawte in tu’n khua muzo hi\nLeitung khuavaakna Zeisu hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9672,7 +9672,7 @@
 		
 		"chorus": "Hi takpi zo diam tua kongpi\nKei aa ding a honsa’n om maw\nKeimah takpi, keimah hong kihon maw",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9715,7 +9715,7 @@
 		
 		"chorus": "Inn ah ciah un, gimna thuakte hong ciah un\nLungdam takin Topa Zeisu in hong sam\n\"Mawhneite hong pai un,\" ci",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9758,7 +9758,7 @@
 		
 		"chorus": "Tuni’n hong sam, Tuni’n hong sam\nZeisu in hong sam\nHong it manin, tuni’n hong sam",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9799,7 +9799,7 @@
 		
 		"chorus": "\"A ut khempeuhte, a ut khempeuhte\n\"Cihna thu a mual a guam va thawnsak un\nHong it i Pa in hong samkik lam khialte\n\"A ut khempeuh hong pai un\"",
 	
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9842,7 +9842,7 @@
 		
 		"chorus": "Sa sa un, sa kikkik un\nMawh neite Zeisu’n ngai hi\nHih thu teltak tangko un\nMawh neite Zeisu’n ngai hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9883,7 +9883,7 @@
 		
 		"verse4": "Tu in vantung khua zinpa lutsak in\nNang vakna pawi kham ding aa\nLutsak in A hong phel ding na mawhna\nLawmte tawh kikhen ciangah\nHong kha ding vantung inn ah, lutsak in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9926,7 +9926,7 @@
 		
 		"chorus": "Hong ciah’n, Aw, hong ciah in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -9969,7 +9969,7 @@
 		
 		"chorus": "Amah muangin! Amah muang la\nTu in ah muang in, hong gum ding hi\nHong gum ding hi, tu in hong gum ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10012,7 +10012,7 @@
 		
 		"chorus": "Hong ciah ing, hong ciah ing\nVakkhia nawnlo ding\nThupha tawh Nang aa hi ning\nTopa hong ciah ing",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10055,7 +10055,7 @@
 		
 		"chorus": "Khia un, mawh neite khia un\nTopa Zeisu kiang pai un\nKhia un, mawh neite khia un\nTopa kiang khia un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10096,7 +10096,7 @@
 		
 		"chorus": "Na mawh phel nading om hi\nNa mawh phel nading om hi\nHong gum dingin Zeisu sizo hi\nNa mawh bei na'ng thu hong pia hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10137,7 +10137,7 @@
 		
 		"verse4": "Hong hehpih inla, hong en in\nNopsakna keimah hong khiatsuk in.\nTopa kianglo mun dang\nKua kiang ka zuan ding hiam\nLungsim kitam Topa'n damsak thei\nHi bang hih ning! Hi bang hih ning\nGupna ngah na'ng Zeisu beel ning",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10178,7 +10178,7 @@
 		
 		"chorus": "Zeisu kiang pai in, na mawhnate gen in\nAma lam nga in, na mawh hong phel ding hi\nZeisu kiang pai in, Ama lam zuan in\nNa mawh gen in, Topa'n hong phelthei ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10221,7 +10221,7 @@
 		
 		"chorus": "Kei hong pai ning, kong pai ding hi\nTopa thupha sang dingin\nKei hong pai ding, kong pai ding hi\nTopa kiang maan' ngah dingin",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10264,7 +10264,7 @@
 		
 		"chorus": "Nih vei na suakkik in\nNih vei na suakkik in\nA maan takin kong ci hi, kong hilhkik hi\nNih vei na suakkik in",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10309,7 +10309,7 @@
 		
 		"verse6": "Neihsa bangmah nei keng, Nang kong puak ding\nKa lungsim pumpi'n Nang kong kipia khin\nKa lungsim teng bang ci'n kong piathei diam\nMawh phel nading thu'n ka lung hong nuamsak",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10352,7 +10352,7 @@
 		
 		"chorus": "Tuuno a sipha tawh\nNangmah in na kisawp siang zo maw?\nNa puansilh vuuk bangin ah na ngah zo hiam?\nTuuno si tawh na kisawp zo hiam?",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10393,7 +10393,7 @@
 		
 		"chorus": "Kumpi tawh tonkhawm, Haleluiah\nKumpi tawh tonkhawm A min phat\nKa kha vaakthap nawnlo inn lam a zuan\nKumpi tawh tonkhawm kikum khawm",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10435,7 +10435,7 @@
 		"verse4": "Lam khial tuu hizo ta’ng, Kuama thu ke’n ngai ke’ng\nTu in tuucing aw ngai nuam ta’ng\nTuu khumna om nuam ning\nTa gilo ka hi aa, ka vaak kawikawi nuam hi\nAhih hangin tu’n ka Pa’ inn sungah ka omnuam hi",
 		
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10478,7 +10478,7 @@
 	
 		"chorus": "En in, hing ta in! En in, hing ta in!\nNang aa ding sing tung sihna en in\nEn in, hing ta in!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10517,7 +10517,7 @@
 		
 		"verse3": "Pha theilo kisak theihna panin\nZeisu, kong pai!, Zeisu, kong pai\nNang ma deihna bangbang mang dingin\nZeisu, Nang kiang kong pai\nKa pumpi nusia’n Na itna sung\nLung kiatna pan vantung nuamna sung\nSaang semsem leengto ning a tawntung\nZeisu, Nang kiang kong pai!",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10560,7 +10560,7 @@
 		
 		"chorus": "Ka mawhna ka ginat lohna\nTampi ka phawk semsem ta\nAhih hang Zeisu’n hong sap ciang inn sungah\nKa tum ding kongpi honsa",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10607,7 +10607,7 @@
         
 		"chorus": "Kong pai hi, Topa, kong pai hi, tu in\nKalani a Na sipha, keimah hong sawpna in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10648,7 +10648,7 @@
 		
 		"verse4": "Tuunno Zeisu a hi, a tawntung in phat un\nHong thuciam bangin nungta in\nVan leh lei Topa hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10675,7 +10675,7 @@
 		
 		"zoTitle": "Kah Hang Hong Gum Zo Lo!",
 		
-		"engTitle": "Weeping Will Not Save Me",	
+		"engTitle": "Weeping Will Not Save You",	
 		
 		"key": "Key: Eb",
 		
@@ -10691,7 +10691,7 @@
 		
 		"chorus": "Zeisu kap, kei taang ding si\nSingkhuam tungah khaina thuak\nKei hong hon dingin hong ngak\nAmah bek hong honthei",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10734,7 +10734,7 @@
 		
 		"chorus": "Topa, Nangmah kong muangzo\nSinglamteh tung si Tuuno\nNa singlamteh kong beelzo\nHong hon aw, tu’n hong hon aw",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10775,7 +10775,7 @@
 		
 		"verse4": "Ka hi bangin Nong sang mah ding\nNong phel, Nong sawp, Nong huh mah ding\nNa thuciam ka um zo manin\nPasian’ Tuuno, kong zuan, kong zuan",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10818,7 +10818,7 @@
 		
 		"chorus": "Ka va gammang mual tung khuadam lak ah\nInn pan gamlapi ka pial khin\nTu’n hong la in, Nong ciahpih’n nang inn ah\nHong Honpa hong pai in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10859,7 +10859,7 @@
 		
 		"chorus": "Cing ding hi mawh neite’n umta un\nCing ding hi, u te nau te’n um un\nSinglamteh beel leeng mawhna kia ding\nZeisu’n cing ding khatvei gum hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10902,7 +10902,7 @@
 		
 		"chorus": "Manpiak loh hehpihna a lian leh\nMawh mai sakna kei tungah khang aa\nKa kha vangik tu in suakta hi\nKalvari ah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10944,7 +10944,7 @@
 		"verse4": "Ka nuntaak lai hita leh\nKa sih laitak hita leh\nTheih loh gam ka kaiciang zong\nThu khenna mai kong tun dong\nKei taang kitam Suangpi aw\nNangma sung hong beelsak aw",
 		
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -10985,7 +10985,7 @@
 		
 		"verse4": "Thazawng kei in na nuam inla\nZeisu kiang mipha na hi aa\nA thu na up leh Zeisu in\nNangma deihna a thei ding hi",
 		
-		"style": "",
+		"style": "2/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11026,7 +11026,7 @@
 		
 		"chorus": "Nitaang khuavaak luutsak in\nNitaang khuavaak luutsak in\nKhuavaakna kongvangte khempeuh hong inla\nNitaang khuavaak luutsak in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11069,7 +11069,7 @@
 		
 		"chorus": "Topa aw hong domto inla\nKa muhngei nailoh van zangah\nUpna tawh hong dingto sakin\nA sangzaw ah hong suan to in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11112,7 +11112,7 @@
 		
 		"chorus": "Haleluiah! Nangma minthang\nHaleluiah! Amen\nHaleluiah! Nangma minthang\nHong hing kiksak in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11149,7 +11149,7 @@
 		
 		"verse2": "Topa Nangmah kong it man un\nNasepna dingin ah\nKong piak uh zangin Nangma thu’n\nZeisu min dingin ah",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11192,7 +11192,7 @@
 		
 		"chorus": "Si ding aa, khut guak masuan in\nHong Honpa mai mu ding maw\nAmah dawnna ding mikhat zong tonpih lo\nGuak pai ding maw",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11233,7 +11233,7 @@
 		
 		"verse4": "Vil in thunget hong huh’n\nNang tung bekmah muangin\nKei muanna bang piangkei kha leh\nA si den ding ka hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11276,7 +11276,7 @@
 		
 		"chorus": "A sia ding hon khia in, A si ding don in\nZeisu in hehpih hi, A hon ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11319,7 +11319,7 @@
 		
 		"chorus": "Na seem un, na seem un\nNa seem un, na seem un\nLam en un, thu ngen un\nTopa hong pai mateng seem un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11362,7 +11362,7 @@
 		
 		"chorus": "Pai ta un, mai nawt un\nZeisu aa ding khempeuh pai un\nHahkat na seem un, la sa un\nZeisu Kumpipa'n koih un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11403,7 +11403,7 @@
 		
 		"verse4": "\"Ka sep theih bang mah omkei\" ci'n\nKuama kiang genngei kei in\nMi dangte a sih laitak in\nTopa in nang hong sam hi\nLungdam in nasep ding hong pia\nLungdam in A na sem in\nHong sap ciang manlang in dawngin\n\"Hiah om ing, hong sawl in!\"\n\"Hiah om ing, hong sawl in!\"",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11446,7 +11446,7 @@
 		
 		"chorus": "Zion khua i pai hi\nA kilawm khupha pi Zion\nI tun mateng kah toto ni\nKilawm Pasian’ khuapi Zion",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11489,7 +11489,7 @@
 		
 		"chorus": "Kei taang ding a si mipa\n(A minpha tawh ka do ding)\nSinglamteh ka puak hangin ah\nZawhna lukhu ngah ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11530,7 +11530,7 @@
 		
 		"verse4": "Aw manpha hi, tua singlamteh\nVaanlian kumpi lukhu\nKa ngah ding hi hinkik ni teh\nHong lak ding lawpna thu",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11572,7 +11572,7 @@
 		"verse4": "A beina hong naizo hi\nMainawt un! Mainawt un\nLauna tawh Topa phat un, Mainawt un\nKhazih na pum a tenna\nVantung khomun lampi ah\nMinthan' ni ciang dong hong kha, Mainawt un!",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11613,7 +11613,7 @@
 		
 		"chorus": "Sun ahi zong, zan ahi zong vawhun\nThakhauh lai bang, thaneem lai zong vawh un\nNuntaak sung hi leh, sih khit hi leh\nA khop hun khatvei tung ding hi\nAt hun ciang bang a ci diam?\nAt hun ciang bang a ci diam?",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11653,7 +11653,7 @@
 		"verse3": "Tapidaw ngen in pai, na puuk zel hang\nHonpa na koh khialh leh na puuk zel ding\nThungetna galvante nang na silh leh\nZe-etna haksa kantan zo ni teh\nTapidaw ngen in pai, Tapidaw ngen in pai\nTapidaw ngen in pai, na puuk zel hang",
 		
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11694,7 +11694,7 @@
 		
 		"chorus": "Kong zui ding hi, Zeisu kong zui ding hi\nGamlapi gam khempeuh ah kong zui ding hi\nKong zui ding hi, Zeisu kong zui ding hi\nA hong hilh lampi tengah ka zui ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11734,7 +11734,7 @@
 		"verse3": "Hong za sak in, Nangma thumaan\nMun khempeuh ah lungdam takin\nKa lungsim hong puahsak, honsak ta’n\nNangma mite ka it na'ng in\nNangma deihna hih theih nading\nKong ngak hi, Topa Pasian aw\nKa lungsim sung, Hong vaaksak in\nKha Siangtho aw",
 		
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11775,7 +11775,7 @@
 		
 		"chorus": "Topa aw, kote hong thumna\nHong ngai in, an nei Topa\nAn la ding mi hong kuansak in\nAn laak hun a kheng ma in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11816,7 +11816,7 @@
 		
 
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11857,7 +11857,7 @@
 
 		"chorus": "Do in, gal kap siam, Do in hangtak\nKhazih’n hong makaih, hong gum ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11900,7 +11900,7 @@
 		
 		"chorus": "Khatguak om hangin ah Danzila bangin\nGuih theihte tan nangin ah, lau lo-in gen in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11941,7 +11941,7 @@
 		
 		"chorus": "Hong huh nading thu ngen in\nTha hong pia hong keem ding hi\nHong huh nuam hi Topa in\nA hong zawhpih ding hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -11982,7 +11982,7 @@
 		
 		"chorus": "Zeisu tawh ton peuh leng pai ning\nKoima peuh kei aa’n vantung hi\nKoi ah om ta leng, hong om peuh leh\nA singlamteh ka pua ding\nKei hamphatna hi\nZeisu'n hong zui peuh leh\nPai ning koima peuh",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12025,7 +12025,7 @@
 		
 		"chorus": "Gal do in tu’n ka hong pai ding\nZeisu dial honglak\nA thupha tawh om tawntung ning\nDial na lakkik sak",
 		
-		"style": "",
+		"style": "2/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12066,7 +12066,7 @@
 	
 		"chorus": "Kuan, ci kiko na aw na ngai ta un\nEn un, a zawngkhal mite lungkia hi\nGal van a tawi tangval i hih ciangin\nGalkap maangpa in ei hong muang ding hi\nGal van a tawi tangval i hih ciangin\nGalkap maangpa in ei hong muang ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12107,7 +12107,7 @@
 		
 		"verse4": "Ding un, ding un, Zeisu’ mi\nGal beihak nawnlo ding\nTu’n gal kap nading zing ciang\nGal zawhna la ging ding\nA zote khempeuh inah\nNuntaak lukhu ngah ding\nVaanglian Kumpipa kiangah\nA tawntung maang khawm ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12150,7 +12150,7 @@
 		
 		"chorus": "Min thang, min thang, Haleluiah\nMin thang, min thang, Haleluiah\nMin thang, min thang, Haleluiah\nI Pasian mainawt hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12191,7 +12191,7 @@
 		
 		"chorus": "Khai leh! ding un, dial kiim hong kikhawm un\nLimtak, kiging! na kihilh sawn un\nKuan un, mai nawt, Hawsiana kiko un\nKhazih in makaih hi galkap hon",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12234,7 +12234,7 @@
 		
 		"chorus": "Zeisu, Zeisu, ke’n ka muang hi\nA muanhuaina theizo ing!\nZeisu, Zeisu, manpha Zeisu\nAmah muang semsem nuam ing!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Jer. 17:7; Pro. 16:20",
@@ -12274,7 +12274,7 @@
 		
 		"verse3": "Zeisu ko Nong leizo, Sum tawh lei hilo\nNangma sisan Nong bua, lukhu aa ding in\nNa hehpihna dim hi, Nang kiang hong pai peuh\nKote Nong lawpsak aa, ko Nong suakta sak\nA lian Gupkhiatna tawh, hehpih in hong gum\nTopa lam ah i pang, Gumpa ko Nang aa",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12315,7 +12315,7 @@
 		
 		"verse4": "Hehpihna tawh minthanna ah\nUpna lum tawi thungen ding\nTawntung vantung nuntaakna sung\nPasian khut in hong khading\nLeitung nasepna hun bei in\nVantung khual zinna bei ciang\nLametna hong kikheel ding aa\nUpna’n mu thu ngenin phat ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12357,7 +12357,7 @@
 		"verse4": "Kote’ lungsung deihna a sa\nHong mutkhing sakta in\nPumpi’ deihnate nialzo aa\nHuihpi, meikuang, zinling sungah\nNang’ aw hong zasak in",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12399,7 +12399,7 @@
 		"verse4": "Ka sih laitakin ah, Nang kong phat ding\nKa hu tawpna in ah, ka vaikhak ding\nKa ngen lailai hih mah, Khazih hong it zaw ning\nHong it zaw ning, hong it zaw ning",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12441,7 +12441,7 @@
 		"verse4": "Siantho na'ng hun zang in, lung hi dide in\nNgaihsut a nam kimin, Amah uksak in\nKha Siangtho tua bangin kikai sak lecin\nVantung na seem dingin, siam ding sawt lo-in",
 		
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12484,7 +12484,7 @@
 		
 		"verse5": "Nangmah, hinna, thuman lampi\nPa kiang tun nading in\nNangma totsa thunget lampi\nKote zong hong hilh in",
 		
-		"style": "",
+		"style": "3/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12526,7 +12526,7 @@
 		"verse4": "Nangma min phatna tawh, ka khanglo ding\nKa dahna teng Pasian phat na'n nei ning\nTua bangin dahna hang, Nang tawh kinai zaw na'ng\nNang tawh kinai zaw na'ng, ka Pasian aw",
 
 		
-		"style": "",
+		"style": "2/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12569,7 +12569,7 @@
 		
 		"chorus": "Topa, Topa, kong thuum hong ngai in\nMidangte kiang na baan bangmah\nKei hong khengkei in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12612,7 +12612,7 @@
 		
 		"chorus": "Keimah zong, keimah zong\nKei zong guah hong khasak in",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12653,7 +12653,7 @@
 		
 		"chorus": "Aw, a hoih huansung\nHuansung thungetna a hi\nAw, a hoih huansung thungetna hi\nHong Gumpa'n hongngak aa\nKongkhakpi hong honsak\nA hoih huansung thungetna mun ah",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12693,7 +12693,7 @@
 		"verse3": "Lungkhamna vangik bang lel in\nZawngkhal in na thaneem maw\nManpha Honpa i belh hi in\nAma kiang thungen in aw\nMi'n hong simmawh hong huat ciangin\nZeisu kiang i pai ding hi\nA' angsung hong pom hong dalin\nLungnopna hong pia ding hi",
 
 		
-		"style": "",
+		"style": "12/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12736,7 +12736,7 @@
 		
 		"chorus": "Nang tung kong thumaan zawh na'ng in\nTopa kei hong huh in\nKumpi tokhom Na luah ciangin\nKei hong mangngilh kei in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12780,7 +12780,7 @@
 		
 		"chorus": "Kong deih hi, Nang kong deih hi\nNang kong deih tawntung hi\nThupha hong pia'n, Topa aw\nNang kong zuan hi.",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12819,7 +12819,7 @@
 		
 		"verse3": "Mualkuam khua mialna sung hi hang\nTuipi gal ah hongkha in\nHin tawntung na kongpi sungah\nNangmah tawh hong lutsak in\n(Nang kiangah)x4\nHin tawntung na kongpi sungah\nTopa kiang ka lut ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12860,7 +12860,7 @@
 		
 		"chorus": "Nangma deihna, bang hi ta hen\nHong cisak thei in\n\"Na deihna bang hi ta hen\"",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12901,7 +12901,7 @@
 		
 		"chorus": "Ni simin, nai simin\nSipha thanna theisak in\nHehpih aa, Nong itna tawh\nKhau bangin ah keimah hong hen in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12944,7 +12944,7 @@
 
 		"chorus": "Nang aa ding thu ka ngen,\nNang aa ding thu ka ngen\nNang aa ding thu ka ngen\nNang aa ding thu ka ngen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -12983,7 +12983,7 @@
 		
 		"verse3": "Thunget hun nuam, thunget hun nuam\nKei lungsim hong hehnem lai in\nPasian hong ciam Kanan gam nuam\nLuah ding ka lentoh mateng in\nHih ka pumpi puan bang suah aa\nSang dingin tul ngeilo noptuam\nKa lentoh ciang khaning mangpha\nThunget hun nuam, thunget hun nuam",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 55:17",
@@ -13027,7 +13027,7 @@
 		
 		"chorus": "Thungetna hun nuam\nHun nuam thungetna\nTua lai ah va kihel leeng\nDamna zatui hi pah",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13070,7 +13070,7 @@
 		
 		"chorus": "Ngak in, thuakin thum lo-in ngak in\nNgak in, thuakin thum lo-in ngak in\nNgak in, ngak in, thum lo-in ah ngak in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13112,7 +13112,7 @@
 		"verse4": "Topa aw, hong liah in, Na kiang hongkoih in\nNa nasep zawh mateng, lampi honghilh in\nTua ciangin lungdamna la\nKa sa ding hi, vantungah\nTopa tawh tua munah, om nuam tawntung ing",
 		
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13159,7 +13159,7 @@
 		
 		"chorus": "Haleluiah khin zo, Tapa min ka umzo\nAma sisan in kei hong gumkhia khin zo ta\nHaleluiah khin zo, Tapa min ka umzo\nAma sisan in kei hong gumkhia khin zo ta",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13202,7 +13202,7 @@
 		
 		"chorus": "A nopna sungah vantung mite'n paipih\nVan kim lai ah la sa aw dim hi\nVantung inn nuam sungah Topa in la hi\nA itte tawh nopna a ngah hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13245,7 +13245,7 @@
 		
 		"chorus": "Keima dinna Zeisu Suangpi\nOmna dang teng sehneel bang hi\nOmna dang teng sehneel bang hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13288,7 +13288,7 @@
 		
 		"chorus": "Muang in, om ning\nHong gum Topa Pasian thuciamna pha muang ning\nMuang in, om ning\nHong gum Topa Pasian thuciam muang ning",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13331,7 +13331,7 @@
 		
 		"chorus": "Tuni Zeisu sim loh inah\nDeihna dang omlo pi\nItna, hinna, tawntung nopna\nTopa kiang ka ngah hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13376,7 +13376,7 @@
 		
 		"chorus": "A kicing hi, a thupha pi\nKeimah in ah ka um hi\nA kicing hi, a thupha pi\nKeimah in ah ka um hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13417,7 +13417,7 @@
 		
 		"chorus": "(Um un, um un) x2\nKhuamial a lauhuai hang\n(Um un, Um un) x2\nKhua hong vaak dektak hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13458,7 +13458,7 @@
 		
 		"chorus": "(Singlamteh'n inn lam hong hilh) x2\nMailam ka pai ciangin nuam semsem ding\nSinglamteh in inn lam hong hilh",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13499,7 +13499,7 @@
 		
 		"verse4": "Ei itna, a neem ngi-ngei leh\nAma thu bang zui ding aa\nTopa' citna ciamna sungah\nI nuntaakna taang ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13544,7 +13544,7 @@
 		
 		"chorus": "Ke'n hong muang ing\nNang bek hong muang ing\nKe'n hong muang ing, muang ing\nNang bek hong muang ing",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13583,7 +13583,7 @@
 		
 		"verse3": "Lam tawntung A hong paipih hi\nKicing lamdang hong itna\nTawl damna tak, hong khaamzo hi\nVantung ka Pa' inn sungah\nSih nawn lohna puan bang silhin\nA taang gam kakaii ding hi\nTua ciang sa ning a tawntungin\nZeisu'n hong kha mualsuak hi\nTua ciang sa ning a tawntung in\nZeisu'n hong kha mualsuak hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13626,7 +13626,7 @@
 		
 		"chorus": "Thupha guahzu bang\nThupha guah i kisam hi\nHehpihna mal hong kia teei hang\nHong zusuk hen a tampi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13667,7 +13667,7 @@
 		
 		"chorus": "Gam ciamtehna sungah\nNuntaakna lai sungah\nVantung ka tun theih na'ng in\nA kigelh hiam ka min",
 
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13708,7 +13708,7 @@
 		
 		"chorus": "Paikhawm, Zeisu tawh paikhawm ding\nPaikhawm, mun khempeuh pai ding\nPaikhawm, Zeisu tawh paikhawm ding\nMun khempeuh ah Zeisu tawh pai ding",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13751,7 +13751,7 @@
 		
 		"chorus": "Hoih bel hi, hoih bel hi\nKha aa ding, kha aa ding\nHoih bel hi, hoih bel hi, kha aa ding",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13792,7 +13792,7 @@
 		
 		"verse4": "Gam lamdang a phabel in, Pasian thuzui omna\nGam lamdang a phabel in\nA muang mite' deihna\nZeisu na hehpihna in, tua khua hong paipih in\nPasian leh Kha Siangtho tawh\nMinphatna ngah ta hen",
 
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13833,7 +13833,7 @@
 		
 		"chorus": "Ihmu leeng khangma cip lo-in\nMin thanna khua vaak ding hi\nHinkiik ni ciang kimu kiik in\nI kikhen nawnkei ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13876,7 +13876,7 @@
 		
 		"chorus": "Muang un, ngai un. Lampi dang omlo hi\nZeisu kiang nuam ngah dingin\nMuang in a thu ngai un",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13919,7 +13919,7 @@
 		
 		"chorus": "A umte'n zuan, a umte'n zuan\nZeisu zuan in hing ta un\nA umte'n zuan, a umte'n zuan\nZeisu zuan in hing ta un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -13958,7 +13958,7 @@
 		
 		"verse3": "Dahna lungkhamna tawh, khua a mial hangin\nNang sang aa a gimzaw, mi dangte huh in\nNa dahna paaikhia in, thupha ngah nading\nMi dangte aa ding zong, Zeisu kiang gen in",
 		
-		"style": "",
+		"style": "12/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14001,7 +14001,7 @@
 		
 		"chorus": "Nisim in Zeisu Topa\nUm in beelin muang inla\nLai Siangtho hong hilh bangin\nZeisu bek um in muang in",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14044,7 +14044,7 @@
 		
 		"chorus": "Bang zah'n Zeisu ka it\nBang zah'n Zeisu ka it\nBang zah'n Zeisu ka it\nHong it masak hang hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14085,7 +14085,7 @@
 		
 		"chorus": "Ka gengen ding hi, ka sasa ding\nHong Honpa phatna sun ni lohin\nKa gengen ding hi, ka sasa ding\nHong Honpa phatna sun ni lohin",
 		
-		"style": "",
+		"style": "9/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14126,7 +14126,7 @@
 		
 		"chorus": "Upna in zawhna hi\nUpna in zawhna hi\nUpna in zawhna ding hi\nLeitung zawh gawp nading",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14165,7 +14165,7 @@
 		
 		"verse3": "En un, Hinna Anlum, en un, Hinna tui\nPasian' tokhom maipan hong luangsuk tui\nHong pai un, hih lai ah, itna pawi kilui\nVantung' damsak lah dahna omlo hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14204,7 +14204,7 @@
 		
 		"verse3": "Gal na do Zeisu'n thei, na thumna za hi\nNa lunggim lam thei, na kikona za hi\nNa kha tha khauh na'ng in, na tailoh na'ng in\nLungsim nuam hong pia ding, na khitui nul ding",
 
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14245,7 +14245,7 @@
 		
 		"verse4": "Nuamsak tawntungna minthang innpi sungah\nNa min hong phat tawntung ning a taang van ah\nZawhna lukhute khu in sa ning hih mah\nKong it ngei leh zong, tu'n kong it phasem ta!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14288,7 +14288,7 @@
 		
 		"chorus": "\"Vaang lian, vaang lian,\" vantung mi'n ci hi\nLa sa uh hi min phatna la hi\n\"Haleluiah vaang lian minthanna pha ci,\" ci\nVantung sang innpi zelsak uh hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14331,7 +14331,7 @@
 		
 		"chorus": "Topa Zeu ka lung sungah\nHong tum hong khawl khit phetin ah\nTuipi kilok bang ka lung sungah khuavaakna\nTha khatin a hong taang pah hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14358,7 +14358,7 @@
 		
 		"zoTitle": "Hong It Zeisu Topa Aw",
 		
-		"engTitle": "Jesus, Lower of My Soul",	
+		"engTitle": "Jesus, Lover of My Soul",	
 		
 		"key": "Key: F",
 		
@@ -14372,7 +14372,7 @@
 		
 		"verse4": "Ka mawh siin khinzo dingin\nHehpihna Nang kiang kicing\nDamna guntui hong luan in\nKa lungsung siangden nading\nNang nuntaakna naak Na hi\nNangmah hong dawndawn sak in\nA tawntung nuntaak tui li\nKa lungsung hong phulsak in",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14415,7 +14415,7 @@
 		
 		"chorus": "Singlamteh! Singlamteh! Khuavaak ka muh ciilna\nKa lungsung a vangik teng beikhin na\nA thu ka up ciang khua ka muthei ta\nTu in ka lung a dam tawntung ta",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14458,7 +14458,7 @@
 		
 		"chorus": "A hong keem hi, ke'n ka thei hi\nKa dahna hong phawkpih hi\nSun in om nuam lo-in, zan a lauhaui laitak\nHong Gumpa'n hong keem",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14499,7 +14499,7 @@
 		
 		"chorus": "Amah'n hong tonpih, Amah'n hong tonpih\nKei Ama aa ci in hong gen\nI neih bangin i lungdam ding tualai\nKua mah'n ciam kha ngeilo hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14542,7 +14542,7 @@
 		
 		"chorus": "Nang kong cing ding, nang kong cing ding\nKamit in nang kong cing ding\nLeitung pan vantung lampi ah\nKamit in nang kong cing ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14583,7 +14583,7 @@
 		
 		"chorus": "Amah’n ka mawhna teng lakhia zo\nA minsiang phat un, A minsiang phat un\nA mah’n ka mawhna teng lakhia zo\nHalleluijah Min phat un’",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14626,7 +14626,7 @@
 		
 		"chorus": "Keimah in Kumpipa a tapa ka hi\nHonggum Zeisu tawh Kumpipa ta ka hi hi",
 		
-		"style": "",
+		"style": "2/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14669,7 +14669,7 @@
 		
 		"chorus": "Thupha khat nungah khat ngaihsun in\nA tampi hong pia in theita in\nThupha khat nungah khat ngaihsun in\nPasian in a tampi hong pia theita in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14710,7 +14710,7 @@
 		
 		"verse4": "Kei in lawmpa khat ka mu hi\nHong it, hehpihna, nem hi\nLam hong hilh hong ngaihsun sak hi\nHong liah na'ng in, vaanglian hi\nHih zah hong it Topa kiangah\nKhen sakthei vaanglian om kei\nHinna, sihna, leitung gimna\nHong khenzo ding na omkei",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14751,7 +14751,7 @@
 		
 		"chorus": "Hong paipihna peuh zui un\nHong paipihna peuh zuiun\nHaleluiah, Haleluiah\nHong paipihna peuh zui un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14792,7 +14792,7 @@
 		
 		"verse4": "Ka lu hong phong Singlamteh aw\nNang kong taisan ngam nawnlo ta\nNuntaak bei in leivui suak ding\nLei pan paak bang Nong tawi tota\nKa hin tawntung nading",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14835,7 +14835,7 @@
 		
 		"chorus": "Aw ka lungsung, lung khuavaakna\nLungsung nopna, nuamna hunpha hi\nZeisu mainuam ka muh ciangin\nKa lungsim sung hong taang hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14878,7 +14878,7 @@
 		
 		"verse5": "Ama min suangin thu ngen leeng\nNaupang bangin thum leeng\nSihna in ei a hong phak ciang\nAma min i suang ding",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14921,7 +14921,7 @@
 		
 		"chorus": "Nuam un, nuam un\nTopa tungah na lungdam un\nNuam un, nuam un\nTopa tungah lungdam khin un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -14964,7 +14964,7 @@
 		
 		"chorus": "Hong naisak in, thupha Topa aw\nNa sihna singlamteh tawh\nHong kai in Na kiangah, thupha Topa aw\nNaitak in Na pang si tawh",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15005,7 +15005,7 @@
 		
 		"verse4": "Keimah leh ka neihsa, Nong piaksa hi’ng\nHih lai ka nuntaakna, Nangma aa ding\nNa mai kong muh ciangin\nTat khiatsa ka kha in\nHi hen, Nang aa ding in, na khat teitei.",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15046,7 +15046,7 @@
 		
 		"verse4": "Topa’n hong sap ciang ka ngai ding\nTopa hong hehpih ta in\nNangma itna na seem dingin\nTopa aw, hong huh ta in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15089,7 +15089,7 @@
 		
 		"chorus": "Zeisu, Topa, Honpa aw\nNang tungah kong kipia\nNong gupkhiatna dingin ah\nKei aa ding Nong kipia\nTo dang kuamah ka neilo\nKa lungsung hong teeng in\nKa nuntaakna Nang tung kong pia\nKhazih Nang aa dingin",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15132,7 +15132,7 @@
 		
 		"chorus": "Na khempeuh paai aa\nNa khempeuh paai aa\nNa khempeuh Topa khut sungah\nKeimah’n hong pia ning",
 		
-		"style": "",
+		"style": "2/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15173,7 +15173,7 @@
 		
 		"verse4": "Leitung nun tombei aa\nSihna gun ka tungah hong tuum ciangin\nLauna, lung himawhna\nHong paih khiatsak inla\nNa tatsa keima kha hong puato in",
 	
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15214,7 +15214,7 @@
 		
 		"verse4": "Hong zangin, Topa hong zangin\nDeih hun, deihna peuh hong zangin\nNa hehpihna mai ka muh dong\nNa min thanna hong hawmta in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15253,7 +15253,7 @@
 		
 		"verse3": "Aw, Zeisu, kiniam khiatna\nKam tawh nong hopih aa\n\"Nang taang si ing, ka tate ding\nKong bawlzo,\" na ci\nTopa aw tu’n maizum za’n\nKong ka hong hon uh hi\nKo it Gumpa aw, tum in\nHong nusia ngeinawn ke’n",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15294,7 +15294,7 @@
 		
 		"verse4": "Minpha leh hehpih hong pia ding\nMinpha leh hehpih hong pia ding\nMinpha leh hehpih hong pia ding\nLam tawntung ah hong tonpih pih ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15335,7 +15335,7 @@
 		
 		"verse4": "Nangma lawpna, muanna, itna\nNuntaak laitak ke’n ka deih mah\nNangma lungdamna zong deih hi\nNangmah tawh kei ka pai ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15376,7 +15376,7 @@
 		
 		"chorus": "Nang aa ding ka nungta ding hi\nNangmah in kei taang ding Na si\nKeimah ka lung a dam ding hi\nHong gum Topa Zeisu",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15417,7 +15417,7 @@
 		
 		"verse4": "Ka itna teng hong sang in\nNa khe mai ah hong sung ning\nKa pumpi in hong tang in\nNang aa bek hikhin den ning\nNang aa bek hikhin den ning",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15456,7 +15456,7 @@
 		
 		"verse3": "Zeisu, Nangma deih bang\nKei aa ding phakhin hi\nMailam a piang bangbang\nNangmah kong apkhin hi\nLung patau lo keimah\nTangtak ka zuan van inn\nHinlai, sih ciang, ka la\n\"Nang deih bang hisak in\"",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15495,7 +15495,7 @@
 		
 		"verse3": "Nangma pau hong zasak in\nA siang a tel takin\nLungsung huihpi nun ciangin\nManglo phun nuam ciangin\nKa lungmuan theih na’ng inah\nNong sawlna Nong khaamna\nHong theisak hong ngaisak in\nKa lungsim hong cing in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15538,7 +15538,7 @@
 		
 		"chorus": "Ka hibang hong la in\nKa hibang hong la in\nNangma sih keima phatna hi\nKa hibang hong la in",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15577,7 +15577,7 @@
 		
 		"chorus": "Kalung sungah, Nang aa bek hi nuam ing\nKa lutang la inla, Nang aa suak hen\nKa mawh teng silsak in, Topa, tu in\nSilsiang in Nang aa ding hong keem den in",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15618,7 +15618,7 @@
 		
 		"verse4": "Nang deihbang Topa, Nang deih bangbang\nKeimah nuntaakna hong uk in, Nang\nKhazih keima sung, mi’n muh nading\nHong guan in kei sung, Na Kha Siangtho",
 		
-		"style": "",
+		"style": "9/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15657,7 +15657,7 @@
 		
 		"verse3": "Khuapi sungah ka zui ding hi, naupanghon tawh\nDial lek in, nisuh hiang tawi in, khut tawh lam in\nCi in, \"Hosiana\" Zeisu Kumpi\nAmah phatna la naakpi takin",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15702,7 +15702,7 @@
 		
 		"chorus": "Sa un, A min phatna la\nGupkhiatna hong tungzo hi\nTua bang itna pha omkei\nZeisu Khazih i To",
 		
-		"style": "",
+		"style": "2/2",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15741,7 +15741,7 @@
 		
 		"verse3": "Zeisu’n hong taangsak, miteng aa ding in\nKhuamial na tampi tawh kidim hih leitung\nMawhna, dahna, natna sung i taang ding\nNang na omna kiim ah, Kei, kei’ kiim ah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15782,7 +15782,7 @@
 		
 		"chorus": "Zeisu’n hong it hi\nZeisu’n hong it hi\nZeisu’n hong it hi\nLai Siangtho in gen hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15823,7 +15823,7 @@
 		
 		"chorus": "Zingsang aksi sol bangin\nA taang ciat ding uh hi\nA Kumpi lukhu tungah\nTe diamdiam ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15866,7 +15866,7 @@
 		
 		"chorus": "Zeisu’n hong it man ka nuampha hi\nKei hong it hi, kei hong it hi\nZeisu hong it man ka nuampha hi\nKei nangawn hong it hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15905,7 +15905,7 @@
 		
 		"verse3": "A hi zong Ama khekhaap zui in pai ning\nAma itna ka ngahzawh na’ng\nLungsim takpi tawh Ama nuai ah ngento leng\nAmah mu in, tungpan hong dawng ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15946,7 +15946,7 @@
 
 		"chorus": "Nuam un, nuam un\nLa sa'n lungdamna pia'n",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -15987,7 +15987,7 @@
 		
 		"chorus": "Hahkat pawlpite aw, Topa kiang kikhawm un\nLungsim kituak pha tawh, Amin phatna gen un\nTopa leh a gampi aa ding in hahkat in\nPawlpi a hahkatte huh nading thu ngen ni",
 	
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16030,7 +16030,7 @@
 		
 		"chorus": "Pai in seem! ding kipan in\nPai in zong, a mangte gum\nKhuamialna sung mawhnei mi\nTua pawi ah, hong paipih in!",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16071,7 +16071,7 @@
 		
 		"chorus": "Tonkhawm in, hangtak mainawt in\nNa tha hong khauhsak ding hi\nNisim in Amah tawh pai in\nNa khual zinna lam hong pi ding hi",
 	
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16112,7 +16112,7 @@
 		
 		"verse4": "Ka suah tuung bang mah un\nKha Siangtho hong pi in\nItna gamtat hoih neihtheih na’ng\nLungnop hithiatna tawh\nKum tampi sung man ding\nKa kigin kholh na’ng uh\nTawntung nuntaakna hun nuampi\nPa inn ah ka zong ding",
 
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16155,7 +16155,7 @@
 		
 		"chorus": "Tua tangthu hong gen ta in\nTua tangthu hong gen ta in\nTua tangthu hong gen ta in\nZeisu leh hong itna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16194,7 +16194,7 @@
 
 		"chorus": "Na omna munah taangsak in\nNa omna munah taangsak in\nA kisia ding aa om, mi khat peuhmah gup nading\nNa omna munah taangsak in",
 
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16237,7 +16237,7 @@
 		
 		"chorus": "\"Hizo mah nung,\" Topa Nang aa hi ung\nHong bawlpha in, Nang tawh kibang in\nLam Nong hilhna vaang taang ka muh uh ciang\nNa meel bangin hong it in, na thumaan nung",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16278,7 +16278,7 @@
 		
 		"chorus": "Ka lungsung langaih khat kaza hi\nA kilem mahmah vantung pan hong kisa hi\nKa lungsung langaih khat kaza hi\nTua la in ki itna la hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16319,7 +16319,7 @@
 		
 		"chorus": "Khazih it huai hong Gumpa\nEi hong tan ding a si\nSi tawh leisa Pawlpi aa ding\nTopa hong hangsak in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16360,7 +16360,7 @@
 		
 		"verse4": "Ka neulai un Nangma pahtaak,\nNa awi bang hong tasak in\nHong hon Topa pha aw, dimtak\nNangma itna hong guan in\nThupha Zeisu, thupha Zeisu\nNong it zo, hong it lai in\nThupha Zeisu, thupha Zeisu\nNong it zo, hong it lai in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16401,7 +16401,7 @@
 		
 		"verse4": "Mualtung pan hong kum in, Topa\nDamsak pak ven mi lunggimna\nLungsim tawldamna omloh na\nKhua sung kongzing hong siik kik aw",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16444,7 +16444,7 @@
 		
 		"chorus": "Hih teng hang, Khazih Topa\nKong sak uh lungdamna la",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16481,7 +16481,7 @@
 		
 		"chorus": "Ih vekpi in kipaak in la sa ni\nKhua khempeuh ah nuamna la sa un\nKhamtung eimaute Khamtung\nKhamtung ginalo gam hi kei",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16522,7 +16522,7 @@
 		
 		"chorus": "Inn, inn, a nuam inn,\nInn dang nuam om kei\nAw! Ei inn bekmah nuam",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16561,7 +16561,7 @@
 		
 		"chorus": "Innkuan sung ki it leeng\nHun khempeuh nuam mahmah aa\nInnkuan ki it leeng",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16602,7 +16602,7 @@
 		
 		"verse4": "Ama lungdamna thu in\nHuih aw na paipih in\nMi vekpi’n theih mateng in\nTapidaw paipih in\nKhial neite taang ding sih thuak\nTuuno in hong pai ding\nLeitung kumpipa bangin, lungdamna tawh maang ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16641,7 +16641,7 @@
 		
 		"verse3": "Gupkhiatna guntui luang hi, na mai uh nawttek un\nGam khempeuh ah luang unla, hauhna tawh khawl kei un\nA zawngkhal pente dongin, zawhna tawh inn tun dong\nAmah phatna la sa in, \"Topa hong pai,\" ci un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16684,7 +16684,7 @@
 		
 		"verse5": "Leitung mihing khempeuhte in\nEi Kumpipa' min thangsak un\nVantung mite’n la sa dingin\nLeitung ah hong kum sukkik un", 
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16725,7 +16725,7 @@
 		
 		"verse4": "En un gam khempeuh pan, tui, tuikulh dongin\nA kahto Zahova Topa phat un\nGal vanteng puukkhin in gamlumna bei hi\nGupkhiatna aw vantung thawnin ging hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16766,7 +16766,7 @@
 		
 		"verse4": "Leitung aa ding Khazih, Khazih aa ding i sa\nLungdam takin, A suakthak i khate\nMawhnate nusia in\nLam en i lungsim bun, Khazih ei aa",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16807,7 +16807,7 @@
 		
 		"verse4": "Leitung ah na kiko in, \"Zeisu in hong gum hi\"\nMi khempeuh lungdam sak in, \"Zeisu in hong gum hi\"\nMual tung leh kuamthuuk sungah, hong phelna thu gen inla\nHih zawhna thu lasakna, \"Zeisu in hong gum hi\"",
 		
-		"style": "",
+		"style": "6/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16848,7 +16848,7 @@
 		
 		"chorus": "Meivaak teng a vekpi’n vaak in\nTuihual teng kimuh nading\nA cimawh tuikia om kha ding\nGumkhia inla kaikhia in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16889,7 +16889,7 @@
 		
 		"chorus": "Taangsak in, taangsak mengmeng in\nTuipi gaal, tuikulhte dong\nTaangthu lamdang va zasak in\nItna, hehpihna khawnkhong",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16932,7 +16932,7 @@
 		
 		"chorus": "Thangsak un, leitung tengah\nLungdam Thu gungaal khat ah\nLeitung teng Zeisu thu gen un\nA tawntung A min phat un",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -16973,7 +16973,7 @@
 		
 		"chorus": "Topa Pasian kiangah, hehpihna ngente in\nGupna thupha maantak aa ngahthei ding uh hi\nTopa Pasian kiangah hehpihna ngente in\nGupna thupha maantak aa ngahthei ding uh hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17014,7 +17014,7 @@
 		
 		"chorus": "Taangsak ni! Nuamna thupha khuavaak\nTaangsak ni, mun khempeuh ah\nTaangsak ni! Nuamna thupha khuavaak\nTaangsak ni, tawl ngalo in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17057,7 +17057,7 @@
 		
 		"chorus": "Zan khuamial, zing khuavaak suak ding aa\nZing khuavaak, sun nitaang suak ding\nKhazih gam leitung’h hong pai ding hi\nItna leh khuavaakna gam",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17100,7 +17100,7 @@
 		
 		"chorus": "Lungdamna thupha, nopna thupha\nZeisu, hong tatna Thupha, va gen meng in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17141,7 +17141,7 @@
 		
 		"chorus": "Lungdam thu gingsak in\nGamkhat pan gamkhat dongah\nLungdam thu, man neilo\nNangmah leh kei aa ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17184,7 +17184,7 @@
 		
 		"chorus": "Tua thu ka gengen nuam hi\nGengen lai ning vantung ah\nHih thu tul thei ngeilo pi\nZeisu leh hong itna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17225,7 +17225,7 @@
 		
 		"chorus": "Khaici manpha vawh un\nKhaici manpha vawh un\nGamla naiah vawh un, lungduai itna khut tawh\nNuntaak khomun balnen, lungdamna tangthu gen ta un\nKhaici manpha vawh un, i it gam sungah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17268,7 +17268,7 @@
 		
 		"chorus": "“Vaangliatna kei tung hong piazo\nVaangliatna kei tung hong piazo!\nVak kawikawi unla, lungdam Thu vagen un\nNote tawh ka omkhawm tawntung ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17309,7 +17309,7 @@
 		
 		"chorus": "Eite i kimu ding hi, leitung ah kimuh bangin\nTua thupha leh lungdamna ni, zingsang a phalvak ciangah\nEite kimu dingin a hun\nMeiilum a then’ ciangin ah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17336,7 +17336,7 @@
 		
 		"zoTitle": "Nuihna Leh Kahna Gal Khatah",
 		
-		"engTitle": "Beyound the Smiling and the Weeping",	
+		"engTitle": "Beyond The Smiling And The Weeping",	
 		
 		"key": "Key: Bb",
 		
@@ -17350,7 +17350,7 @@
 		
 		"chorus": "Nong itna pha innpi pha ah\nOm dingin hongkha in Topa aw",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17391,7 +17391,7 @@
 		
 		"chorus": "Hi hi, tua tuikhuuk kong mu ding\nA hoih a taang tuikhuuk ah\nAw, tua tuikhuuk ah kong mu ding\nHi hi, kong mu ding, mu ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17432,7 +17432,7 @@
 		
 		"chorus": "Zeisu minphat ni\nKalani mual tungah sizo hi\nZeisu minphat hi\nSihna zo aa hingkik ta hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17473,7 +17473,7 @@
 	
 		"chorus": "Kumpipa' mai i ding ding\nVantung mi tawh la sa ding\nKumpipa A min phat ding\nHaleluiah! Haleluiah\nKumpipa’ mai i ding ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17514,7 +17514,7 @@
 		
 		"chorus": "Gaal omlo Zeisu' angsung\nKham khut tawh hong kawi ding\nHong itna a limbeel leh\nKa lungsim nuamsa ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17557,7 +17557,7 @@
 		
 		"chorus": "Vantung ah, vantung ah\nI om nading inn vantung ah\nVantung ah, vantung ah\nVantung ah (vantung ah)\nI om nading inn vantung ah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17598,7 +17598,7 @@
 		
 		"chorus": "Hih lam ah, hih lamah\nZeisu tawh a tawntung omnuam ing\nHih lam ah, hih lam ah\nZeisu tawh a tawntung omnuam ing",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17639,7 +17639,7 @@
 		
 		"chorus": "Kikhawm ding innpi ah\nA nuam gunpi leh ciktui gei ah\nHong ngak i lawmte tawh\nNuam in Topa min i phat ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17682,7 +17682,7 @@
 		
 		"chorus": "Inn nai zaw’ng, inn nai zaw’ng\nNi khat sang' inn nai zaw’ng",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17723,7 +17723,7 @@
 		
 		"chorus": "Nung ciangin a nopna\nTua gampha ah i kimu ding hi\nNung ciangin a nopna\nTua gampha ah i kimu ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17764,7 +17764,7 @@
 		
 		"chorus": "Aw, kei aa ding tua minthanna\nTua minthanna, tua minthanna\nHong hehpihna, Amai ka en ding ta\nTua minthanna in keima aa ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17807,7 +17807,7 @@
 		
 		"chorus": "Mual tungah meii kai lohna\nA nopna ah ka teeng hi\nTuinaak pha pan a hong luang\nTui kang ngeilo dawn ing\nHi hi, bei hun neilo a hong piang\nMana tawh ka kivaak hi\nKei in khamgam nuamah ka teeng hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17850,7 +17850,7 @@
 
 		"chorus": "Inn tawh nai zaw'ng\nInn tawh nai zaw'ng\nInn tawh nai zaw'ng tuni'n\nTuni'n, a beisa nite sang",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17893,7 +17893,7 @@
 		
 		"chorus": "(Sihna gungaal khat ah) x3\n(I tung ding hong nai ta) x4\nSihna gungaal khat ah",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17936,7 +17936,7 @@
 		
 		"chorus": "Tua gamnuam sungah ei i khawl ding hi\nA nop tawntung gungaal lam in ah\nNung ciangin Mawsi leh Tuuno la sa ding hi\nZeisu tawh maang tawntung ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -17977,7 +17977,7 @@
 		
 		"chorus": "Nung ciang a kiang kimu ding\nNung ciang a kiang kimu ding\nNung ciang aa Topa Zeisu tawh maang ding hi\nNung ciang a kiang kimu ding\nNung ciang a kiang kimu ding\nNung ciang aa Topa Zeisu tawh maang ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18020,7 +18020,7 @@
 		
 		"chorus": "Thangvan dong, i tun ciangin\nDeih teng leh lailung damna ngah ding hi\nKumkhua in, la sa ni\nTopa Zeisu i phat ding hi",
 		
-		"style": "",
+		"style": "12/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18059,7 +18059,7 @@
 		
 		"chorus": "Gam nuamah om dingin\nOm dingin, om dingin\nHih lamah, hong pai un u leh nau\nGam nuamah om dingin\nOm dingin, om dingin\nHih lamah hong pai un u leh nau",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18100,7 +18100,7 @@
 		
 		"verse4": "Ni tumna gaal ah, lungdam kikhawlhna\nA tungsa i it, i lawmte tawh\nTua a nuam gam sung, kikhen nawnlo ding\nNi tumna gaal ah, a tawntung in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18143,7 +18143,7 @@
 		
 		"chorus": "Singlamteh e'n i puak leh\nKham lukhu i khu ding\nMi hoihte sung i ten leh\nKhuavaak sung i omden ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18187,7 +18187,7 @@
 		"verse5": "Minthanna thawhkik zing khuavaak mateng\nKhazih sung a site thawhkik mateng\nGinalo bek tawh hong paikik lo ding\nMangpha! Mangpha! Mangpha!",
 
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18228,7 +18228,7 @@
 		
 		"chorus": "Tua mun ah, ni tumlo, singtehte vul ngeilo\nTua mun ah thumaan mi maitang Topa'n en ding\nTua Pasian kham khuapi hoih sungah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18271,7 +18271,7 @@
 		
 		"chorus": "Leitung ni a bei ciangin ah\nNung ciangin inn nuam ah\nMi siangthote omna lam ah\nVantung khua om ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18312,7 +18312,7 @@
 		
 		"chorus": "Dahna kipelhna mun\nDahna kipelhna mun\nItna kicing, vantung khamgam\nDahna kipelhna mun",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18355,7 +18355,7 @@
 		
 		"chorus": "Tua khuapi nuam, khut tawh bawllo\nTua gam, eima aa ding\nTawntung vantung mi'n la a sa\nEima omna ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18396,7 +18396,7 @@
 		
 		"chorus": "Ka mu ding hi, Topa' maitang\nGupna thu itna tawh hong gen\nKa mu ding hi, Topa' maitang\nGupna thu itna tawh hong gen",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18435,7 +18435,7 @@
 		
 		"verse3": "Innpi hoih a lim ka thei naikei hi\nBang min ka ciahpih ding ka theikei hi\nHih hang hong gum Topa Zeisu hong ngai ding hi\n(Vantung in keima aa ding hi) x3\nHih hang hong gum Topa Zeisu hong ngai ding hi\nVantung in keima aa ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18478,7 +18478,7 @@
 		
 		"chorus": "A sawt lo-in ah, a sawt lo-in ah\nTuipi hual i kantan ding\nEite kimu ding huihpi nung a ven ciangin\nA sawt lo-in ah innah ciah ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18521,7 +18521,7 @@
 		
 		"chorus": "Inn pha belah i pai ding aa\nLungdamna tawh i kimu ding hi\nKhua munnuam bel eite'n i phak ciang\nDahna om nawnlo hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18564,7 +18564,7 @@
 		
 		"chorus": "A kilawm kongpi kihon ciang\nA kilawm kongpi kihon ciang\nTua'h Topa mu ding\nTua tawh i lungnuam ding\nA kilawm kongpi kihon ciang",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18604,7 +18604,7 @@
 		"verse3": "Zeisu mu in kibang ta ding\nNung ciangin, nung ciangin\nKisia theilo lukhu ngah ding\nNung ciangin, nung ciangin\nA thu bang kicing ding aa\nVantung mi naseemte in\nEi' na hong sepsak ding hi\nNung ciangin, nung ciangin",
 
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18645,7 +18645,7 @@
 		
 		"chorus": "Aw gam nuampi, a pha gampi\nMualsang tung pan ka galet aa\nKei aa ding bawl kholhsa innpi\nTuipi gaal ah ka galmuh ta\nKa ten nading, vantung khuapi\nA taangpha hi tuipi gaal ah",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18688,7 +18688,7 @@
 		
 		"chorus": "Ei hong it aa, i mawhna hong phelsak Topa\nAma minthang tawntung ta hen!\nAmen, Amen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18731,7 +18731,7 @@
 		
 		"chorus": "Vantung inn ah pai ding om\n(Tanglai mi paina lampi) x2\nTu lai mi nuamsa un aw\nA sawtlo eite’n mu ding",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18772,7 +18772,7 @@
 		
 		"chorus": "A kumkum in nuam semsem\nA kumkum in nuam semsem\nZeisu itna lianzaw\nCingzaw, thuukzaw, khumzaw\nA kumkum in nuam semsem",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 65:11-13",
@@ -18812,7 +18812,7 @@
 		
 		"verse3": "Mailam hun ding zong a theikhol Topa, kong zui uh hi\nMuanhuai mah le ung zong hong ompih in, hong beelbeel nung\nNuntaak lai teng Nang nuntaakna Khomun\nKo hun bei ciang inn nuamah hong kha in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18853,7 +18853,7 @@
 		
 		"verse4": "Gaalhang mipha, mi suaktate\nLungsim hoihte, mi hehpihte\nGamsung khuamial khempeuh bei hen\nKhazih deih bang hong piang ta hen",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18892,7 +18892,7 @@
 		
 		"verse3": "Topa' nasep theih na'ng kum, Nang Nong itna hangin\nNangma nasep siamzawk na'ng, hoih zaw kicin theih na'ng\nTopa' kum dangkhat hong tung, kumpha hong hisak in\nVantung leitung koimah peuh, Nangmah tawh kum paikhawm",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18933,7 +18933,7 @@
 		
 		"chorus": "Ni tampi, khengzo hi\nNi tampi, khengzo hi\nThupha gamtat theih nading\nNi tampi khengzo ta hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -18974,7 +18974,7 @@
 		
 		"verse4": "Hong pai in thusiam Topa\nVantung ah mang khempeuh tawh\nVantung pan Na mihingte\nHong sawl in ka Topa aw\nA siangtho mihing phate\nBuhphual paina la sakna\nA sang vantung innpi ah\nA vekpi kikhawm sak in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19015,7 +19015,7 @@
 		
 		"chorus": "Eite kiim leh paam aa, na a hoihte vekpi\nVan aa Topa’n hong piak hi aa\nNuamhuai kim hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19058,7 +19058,7 @@
 		
 		"chorus": "Hi hi, hi, kei aa ding in\nHi hi, kei aa ding, Topa’n hong it man\nHong tuaksuk hi, van pan\nSing tung si, nang leh kei hong gum ding!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19099,7 +19099,7 @@
 		
 		"chorus": "Upna tawh gupna i ngah, up man, up man\n(Nang dikna hilo upna tawh) x2\n(Sep hilo) x6\nHi leh mi kisial ding\nPasian hong piak khong hi\nSep hilo, hi leh mi kisial ding\n(Pasian hong piak khong hi.) x4\nHong piak khong hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19142,7 +19142,7 @@
 		
 		"verse5": "Minthang Kumpi hong pai ciang\nA tatsate hong la ding\nA thak hih la i sa ding\nHaleluiah! Hi bang gumpa!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19185,7 +19185,7 @@
 		
 		"chorus": "A vaanglian la gingsak ta un\nTuipi naakpi ging bangin\nEi hong tatna Khazih si hang\n(Gualzo pente i hi hi) x3\nEi hong tatna Khazih si hang\nGualzo pente i hi hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19224,7 +19224,7 @@
 		
 		"chorus": "Singlamteh tung kilh hi\nSinglamteh tung kilh hi\nAw, bangzah in Amah’n gimna thuak!\nKhuavul sisan suak in\nZeisu’n singlamteh pua!\nKa mawhna teng singkhuam tung puakhin!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19261,7 +19261,7 @@
 		
 		"verse3": "Leitung dahna bei sakin, lungdamna pia’n\nLeitung kisiatna bei, kilemna pia’n\nA kithei lo zingciang nuntaakna ni ah\nTaikhua valsak, tawntung hinna, itna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19296,7 +19296,7 @@
 		
 		"verse1": "Na khuavak leh Na thuman hong zuisak in\nNa mual siangtho ah hong paipih sak in\nNa khuavak leh Na thuman hong zuisak in\nNa mual siangtho ah hong paipih sak in\nAw hong zuisak in, Aw hong zuisak in\nNa mual siangtho ah hong paipih sak in\nAmen!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19335,7 +19335,7 @@
 		
 		"verse3": "Nangmah hong muan theih na'ng un\nPasian aw hong huh in, haksatna thuaknate ah\nNangmah’n hong ompih in, amau nuntaakna bei in\nLeitung nusia ta leh\nA tawntung hong ompih in\nNa innah hong pi in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19374,7 +19374,7 @@
 		
 		"chorus": "Lungdam takin nuampih ciat ve un\nI lawmte kitenna pawi sungah\nHih lungdamna thu vantung dong thangsak un\nLeitung nuntaakna a bei ciangin",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19407,7 +19407,7 @@
 
 		"verse1": "Leitung bei dong, i Kawlgam\nEi pupa gam, i luahsa it ciat ni\nKawlgam bup hut na'ng\nHinna paaingam ning\nHih ei gam, hih ei lei, eima neihna\nEi gam, ei lei phattuam na’ng\nEi kilung tuak in, i hanciam ding hi\nEima sep ding, i gam manpha",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19448,7 +19448,7 @@
 		
 		"chorus": "Phat ve vua! Phat ve vua!\nLeitung ah kiza hen!\nPhat ve vua! Phat ve vua!\nMi khempeuh lungdam hen!\nA Ta Zeisu tawnin A Pa kiang luut un\nSianmang hawm siamna hi\nAmin thangsak un",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 29:2",
@@ -19490,7 +19490,7 @@
 		
 		"chorus": "Van aa Pasian, ei hong ompih hizo ta\nKilemmna Mang, leitung hong ukta hen\nAma thunuam mi in ciamkim ta hen",
 		
-		"style": "",
+		"style": "12/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19527,7 +19527,7 @@
 		
 		"verse3": "Kha Siangtho lamdang hehnem Pa na hi\nKha Siangtho lamdang hehnem Pa na hi\nKa lampi Nong hilh aa\nKa sungah Nong teeng hi\nKha Siangtho lamdang hehnem Pa na hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19564,7 +19564,7 @@
 		
 		"chorus": "Ka hatna, dalna lum na hi\nNangma sung bekah kong kipia hi\nNangmah bek ka lungtup na hi\nNangmah bek hong bianuam ing",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 42:1",
@@ -19604,7 +19604,7 @@
 		
 		"chorus": "Hong gen bang hong paikik ding ka um hi\nVantung mi’n peengkul hong tum in\nMisite tho ding cih ka um hi\nMitphiat sung kikal in ah\nVantung hong keek in ah\nA gen bang hong paikik ding ka um hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Acts 1:10, 11",
@@ -19646,7 +19646,7 @@
 		
 		"verse4": "Kha Siangtho aw, lawpna thak hong guan in\nLawpna thanuamna hong khanglo sak in\nKote sapna, ngah ding, Na cih sa hi\nTu’n hong pia in Na thupha, kong thuum hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 139:23",
@@ -19688,7 +19688,7 @@
 		
 		"chorus": "Singlamteh tung a khencip\nSiiktukkilh nasak khak leh\nKei A hong itna hi a lencip\nKei sih taang A sih manin\nKei a suakta thei ka hi\nZeisu lo ngal in thuakzo ken teh",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Ephesians 5:2",
@@ -19730,7 +19730,7 @@
 		
 		"verse4": "Van ah eite ni bang taang aa\nPhatna sasa ding aa\nNuam mahmah ding kumtuul, kumthen\nVeng ngeilo nuam denden",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Ephesians 2:8",
@@ -19770,7 +19770,7 @@
 		
 		"verse3": "Hong hon Topa aw, Na thupha\nTu in kei hong ngahsak in\nItna tawh hong ensuk inla\nNa mai nuam hong musak in\nNangma lungsim bang hong guan in\nNang' sian bang hong siangsak in\nNong ompih cih ka lah na'ng in\nNangma hoihna hong guan in",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19811,7 +19811,7 @@
 		
 		"chorus": "Etlawm mualkuam Eden gamnuam!\nMi siangthote omna! Omna!\nTuihual lauhuai in honglok laitak\nNgai sing ei na daihna nuam",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"refBible": "Hebrews 4:9",
@@ -19853,7 +19853,7 @@
 		
 		"chorus": "Topa in na sung a dimdong hong sun ding hi\nBeel hong tawmken khake’n ci\n\"Tampi tak hong keng in\" ci\nTopa in tuni’n a dimdong hong sun ding hi\nKha Siangtho leh vangliatna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -19894,7 +19894,7 @@
 		
 		"chorus": "Zeisu vako ning! Zeisu vako ning!\nKei guak in ka van puakhak lua hi\nZeisu vako ning, Zeisu vako ning\nKei hong huhzo ding, Amah bek hi",
 		
-		"style": "",
+		"style": "9/8",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 34:17",
@@ -19936,7 +19936,7 @@
 		
 		"verse4": "Topa, Na vangliatna kong muang\nNa khutmate lamdang lua\nSaltaang Na mite Na honkhia\nNa gel bang Na tangtung sak\nSihna hankhuuk, galpa satan\nNang na zogawp khinzo hi\nNang na zogawp khinzo hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Isaiah 58:11",
@@ -19976,7 +19976,7 @@
         
 		"chorus": "Zawhna om hi, a tawntung\nKa Honpa Zeisu sung\nA si tawh kei mimawh\nHong zongin hong leizo\nKa theih ma’n hong it zo aa\nKei zong ka it kikthei ta\nGualzawhna ka ngah nading\nA si sung hong phumzo",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20015,7 +20015,7 @@
 		
 		"chorus": "O hih mah lamdang pen sa'ng!\nHih mah lamdang pen sang!\nPasian in kei hong it zenzen!\nO hih mah lamdang pen sa'ng!\nHih mah lamdang pen sang!\nPasian in kei hong it zenzen!",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Ephesians 2:10",
@@ -20057,7 +20057,7 @@
 		
 		"chorus": "Kalsuan simin A hong pii ding ka thei aa\nA sangzaw ah hong paipih tawntung hi\nKhatvei ni ciang lam tawpna ka tung ding a\nKalsuan simin inn ka nai semsem hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalms 37:23",
@@ -20101,7 +20101,7 @@
 		
 		"chorus": "Ei lam ah Pasian, ei lam ah Pasian\nEi lam hong om leh, kua i langpang zo ding?\nKua?, kua?, kua?\nKua i langpang zo, kua pangzo ding?",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Romans 8:31",
@@ -20145,7 +20145,7 @@
 		
 		"chorus": "A thu zaza nuam ing\nA thu zaza nuam ing\nKei taang aa si Pa' hong itna\nA cing zawin ka theinuam hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		
@@ -20189,7 +20189,7 @@
 		
 		"chorus": "Kikhopna lian! Kikhopna lian!\nHotkhiat sa mite tawh kikhopna lian itna gam sungah\nKikhopna lian! Kikhopna lian!\nHotsa mite kikhopna lian vantung ah!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Genesis 49:10",
@@ -20233,7 +20233,7 @@
 		
 		"chorus": "Hi hi, gunpi ah kikhawm ding\nKilawm mahmah a hoih mahmah gunah\nPasian' tokhom pan hong luang gunah\nMi siangte tawh kikhawm ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Revelation 22:1",
@@ -20277,7 +20277,7 @@
 		
 		"chorus": "Amah thei ning, Amah thei ning\nHot ngah aa, A kiang ka din ciangin\nAmah thei ning, Amah thei ning\nA khut a kikhetna pawn pan in",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "1 Cor. 13:12",
@@ -20319,7 +20319,7 @@
 		
 		"chorus": "Etlawm mualkuam unok paak leh\nA tang zingsol aksi\nMi tul then tampi sangin, Amah hoih zaw",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Ecc. 2:1",
@@ -20357,7 +20357,7 @@
 		
 		"chorus": "Topa hong paikik ciang\nBangzah tak a nuam ding hiam\nA tate hong kaihkhop ciang\nBangzah tak a nuam ding hiam\nA mai tang munuam zen sing\nA khut pawn lawngnuam zen sing\nTopa hong paikik ciang\nBangzah tak a nuam ding hiam!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "1 The. 4:15, 16",
@@ -20397,7 +20397,7 @@
 		
 		"chorus": "Topa lian hi, A gam in bangzah in zai hiam?\nKam tawh gen ding ka kipat simloh ngal\nAmah lian hi, vangam leimong uk dingin ah\nKa lungtang sung Amah tu’n hong teng hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20440,7 +20440,7 @@
 		
 		"chorus": "Nang kong dawn ding\nNang kong dawn ding\nNi suahna lam kongpi sung tua lai ah\nNang kong dawn ding\nNang kong dawn ding\nNang kong dawn ding\nZingsang tungin tua lai ah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20479,7 +20479,7 @@
 		
 		"chorus": "Ka teen nading inn nong pia aa\nNuamtakin Nong khim aa\nAn zong Nong vak den aa, khedap Nong guan hi\nIt tawplo Nong it aa, innkuan Nong nuamsak hi\nNuam lua ing, Nong piak thupha hangin",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20520,7 +20520,7 @@
 		
 		"chorus": "Pawlkhatte tuithuk tuihual sungah\nPawlkhatte mei sung, sisan luang in thuak\nZan thapai khuamial sung leh sun hun in\nAmah phatna la hong sasak zo den",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"refBible": "Isa. 43:2",
@@ -20564,7 +20564,7 @@
 		
 		"chorus": "Galzo ding kuan un! Galzo ding kuan un!\nI galkap Mangpa’n ci \"Kuan!\"\nA hong sawlna mang ni\nI ngah ding hi tua gam, thumaanna hi\nThumaanna, Khazih tung thumaanna",
 		
-		"style": "",
+		"style": "2/4",
 		"music": "",
 		"culture": "",
 		"refBible": "John 11:5",
@@ -20606,7 +20606,7 @@
 		
 		"chorus": "\"Inn mah ki khenglah pen hi,\"\nCih kei aa ding ka khamuanna hi\nKa ciahna ding mun Paradise aive\nHih lei ah mun tampi teengzo ing\nTua khempeuh ken cimtaak zo ing\nZeisu ka kipiak teh ka khenlah van a zuan ding kai ve!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20645,7 +20645,7 @@
 		
 		"verse3": "Nuam lua ing, paak hoihte hangin\nNuam lua ing, paak lingte hang\nNuam lua ing, innlum, lolum hang\nNuam lua ing, lametna hang\nNuam lua ing, dah leh nuamna hang\nNuam lua ing, khamuanna hang\nNuam lua ing, ka lametna hang\nNuam lua ing, tawntung sung dong",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "John 16:33",
@@ -20685,7 +20685,7 @@
 		
 		"chorus": "Topa in a khut tawh hong lawng hi\nLungkhamna up lohnate mang ta\nKa kha lungdam kipak\nHong suahtaak, hong damsak\nTopa in a khut tawh hong lawng hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20726,7 +20726,7 @@
 		
 		"chorus": "Tua ni ciangin ke’n pawh la sasa mai ning\nTua ciangin ka lungdam den ta ding\nTua ni ciang in, ka mit ten khuapi en ding\nPasian in kei, tuah hong sam ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20765,7 +20765,7 @@
 		
 		"chorus": "Tuuk hun nong khap manin nuamzen sing\nKhatvei la sakik thei ning\nNithak khat hong suakkik dekta ding\nTuuk hun Nong khap manin nuam sing",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Gen. 8:22",
@@ -20807,7 +20807,7 @@
 		
 		"chorus": "Zeisu phatna la simloh sak ding nei keng\nKalvari leh Khazih bek sasa ning\nLa kasak sial hih thu mah tangko den ning\nSasa den ning, a lamdang hong itna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20850,7 +20850,7 @@
 		
 		"chorus": "Pasian kihelna neu cih omlo\nMinthanna hauhna zong ke'n\nZeisu min suang aa nasep leh\nKham lukhu na ngah ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "John 6:9",
@@ -20888,7 +20888,7 @@
 		
 		"verse2": "Ka mitte khitui tawh hong silsak hi\nHihzah tak hong itna lamdang lua hi\nKei khut taang ding a khut kikhen let aa\nKei khe taang ding a khe kikilh cip hi\nKei mawh a sian nading A si bua aa\nKei thuak ding dan khempeuh Aman thuak hi\nTu’n kei pawhnuam mah si'ng, tatsa ka hi\nKa mitte khitui tawh hong silsak hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20927,7 +20927,7 @@
 		
 		"chorus": "Khatkhat in gungaal khatah ih kan ta ding aa\nKihal lo in a kan ih omzeel ta\nTua ma'n kiptak nong kamciam diam\nGun piauah ih kimu ding hiam?\nKen bel tung ning ci’n hong kamciam ing",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -20968,7 +20968,7 @@
 		
 		"chorus": "Huihpite vengmang khin aa\nVangingte a beisiang dong\nVan a meiite bei mang aa, khuaphat dong\nTopa aw hong len in\nNa khutkuak sung hong koih in\nHong kem in, huihpi a ven mateng",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "",
@@ -21010,7 +21010,7 @@
 		
 		"chorus": "Nuntaak tawntung na ciktui ka dawn hi\nTu'n ka lungdam hi,\nKa kha dangtaak nawnkei\nNuntak tawntung na ciktui ka dawn hi\nO a lamdang tui tampi a luang hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "John 7:37",
@@ -21050,7 +21050,7 @@
 		
 		"chorus": "Tuihual lianpi om in, khua hong mial hang\nHong lungkham saklo\nPasian' khut in kei hong kepbit manin ah\nHong tonpih ma'n leitung in hong zolo ding\nPasian khut in kei hong keembit hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21089,7 +21089,7 @@
 		
 		"chorus": "Hong it ka nu, bang tawh ka tehthei diam?\nNong ho kamkhum, bang tawh ka tehthei diam?\nLei zawhloh suang manpha sang lianzaw hi\nNu aw nong ho kamkhum zanuam den ing",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21130,7 +21130,7 @@
 		
 		"chorus": "Hi thei ding maw ka Pasian aw\nNangmah takpi hong si ding maw?\nLamdang itna ka Pasian aw\nNang mah takpi hong si ding maw?",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Phi. 3:7",
@@ -21168,7 +21168,7 @@
 		
 		"verse3": "Tuun aw, sinlai lungah naubang na san, Sianmaang sinthu. Na tawi vonno te'n tuu bang cingin, paai bang kuah ung. Sian in lumbang hong sung, gual tawh tanbang kim ta ung. Lailung muang in maw, miim bang pianna, sen Tuunnu aw. Ei bawl sinthu hilo aa khang vai mangnu sinthu. Honuam lai gi bang kikhen, lailung zuan zatam Tuunnu. Tung sianmang in hong huaihen, heina peuhah taangbang dam ni. Na von lungzuang meel hong mulai aw, sen Tuunnu aw",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21211,7 +21211,7 @@
 		
 		"chorus": "Tua gamnuam a sawtlo in a\nLuah dingin i paita ding hi\nO kua teng in hong zuinuam hiam?\nTua Khanan gam nuamah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21250,7 +21250,7 @@
 		
 		"chorus": "Calvary paikhin ing\nKe'n Topa ka mukhin ta\nCalvary paikhin ing\nA kammalte tung panin hong itna siangtho hang\nTua in kei hong liingsak hi\n(1: A thei ding tua Honpa kei aa hi)\n(2: A phawk ding tua Honpa kei aa hi)\n(3: Lungngai ding tua Honpa kei aa hi)",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21293,7 +21293,7 @@
 		
 		"chorus": "Leitung susia'n Amah khahkhia ding\nVantung mi tulsawm samthei napi'n\nVantung mi tulsawm samthei na pi'n\nNang leh kei aa ding in hong si hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21334,7 +21334,7 @@
 		
 		"chorus": "Zeisu aa ding a thuman, a hoih galkap\nMidang te'n min piazo, nang e leh?\nZeisu Kumpipa hi, launa ding omlo\nNangma ut tawmna tawh na min na pia diam?",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21373,7 +21373,7 @@
 		
 		"chorus": "Lungkhamna leh dahna tam\nKei kia ka zin laitak\nKhat veivei nopna a om teei hang\nGamla pekpek munah\nO! Topa khatvei teitei\nTeeng na ve'ng, teeng na ve'ng",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21400,7 +21400,7 @@
 		
 		"zoTitle": "Tatna Ni Hong Nai Ta",
 		
-		"engTitle": "Redemtion Draweth Nigh",	
+		"engTitle": "Redemption Draweth Nigh",	
 		
 		"key": "Key: D",
 		
@@ -21412,7 +21412,7 @@
 				
 		"chorus": "Mun tengah lim hong kilangh ta\nThusia lasia tawh leitung kidim ta\nVantung lam vilin ngak gige in\nNa lu phong in, tatna ni hong naita!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21449,7 +21449,7 @@
 		
 		"chorus": "Innlam ka zuan hi\nZion tembaw tung tuangin\nGaalkhat pekah meiilum lakah\nA taang ka galmuh ta\nTembaw khawlna ciang dong\nHoihtak, inn ka tun mateng in\nVantung mite aw, kei hongkha aw!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21488,7 +21488,7 @@
 		
 		"chorus": "Na lungkham ke'n, lunghei nei ke'n\nVantung aa ka Pa um in\nKei zong hong um peuh le cin, na om nading bawlin pai ning\nMite lamtawm a hilo\nInnpi liante kong lamsak\nA hun tun ciang i teeng ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "John 13:1-5",
@@ -21526,7 +21526,7 @@
 		
 		"chorus": "Hua gal khatah ih kimuh ciang nuam si'n teh!\nTatsa mi honte tawh ih kikhawl ding\nIt teng tawh kimu in Khazih Kumpi suah ciang\nVantung nuam mah si ee ih ci ding",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21567,7 +21567,7 @@
 		
 		"chorus": "Kong it Topa aw, Nong sawlna peuh ah\nA mual, a guam zaang sungah\nGen ding aa Nong deih bangbang gen ding\nNong deihna mun peuhah pai ning",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21606,7 +21606,7 @@
 		
 		"chorus": "Inn dei tungnung aa Zeisu tawh\nA khephung ah ka tu hi\nOh, Oh kikholh khopna nuam zen si!\nTopa'n lungnopna hong pia",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Matt. 11:28,29",
@@ -21648,7 +21648,7 @@
 		
 		"chorus": "Pa' hong itna, lian zen mah si\nTehpih ding omlo hi\nKisia kik ngei nawnlo ding ci\nVan mite'n sa ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "John 15:13",
@@ -21690,7 +21690,7 @@
 		
 		"chorus": "Leitung ah kimuh kik loh hang\nHaksat nate i phut kawmin\nKhua ah i kimuh na'ng munkhat\nNuntaakna luitui gei hi ding\nPaak hoihte a tawntung paak ding\nKikhen na zong om nawnlo ding hi\nLeitung ah i kimuh loh hang\nHoih gunpiau ah kimu ding",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21731,7 +21731,7 @@
 		
 		"chorus": "Hi hi, Honpa kia bek kei aa ding hong si hi!\nHi hi, mawhna pan hong suakta sak khin zo hi!\nLametna bei, mawhna tawh dim, Hih khuamial leitung ah\nPa' deihna bangin Honpa hong pai hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Matt. 26:36",
@@ -21775,7 +21775,7 @@
         
 		"chorus": "Nung ciang a vekpi'n i thei nading hi\nBanghang ei dah aa mi nuamsa hiam?\nNa lung nuamsak in ni taang khuavak ah\nI telna ding hi i nua ciangah",
 		
-		"style": "",
+		"style": "9/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21816,7 +21816,7 @@
 		
 		"verse4": "Hong phongin, hong len aw\nHong kai in, Topa aw\nKei ka gim kei ka zawm, kei ka bah\nHuihpi nung tase leh\nKhuavak ah hong pii ve\nInnpi ah hong tun in maw, Topa",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 119:117",
@@ -21856,7 +21856,7 @@
 		
 		"chorus": "Topa nasepna ah nuamsa semsem ing\nNisim in tha hong guan hong thahat sak hi\nVantung gam bang hi, ka lungsung hong dimsak\nTopa nasepna ah nuamsa semsem ing",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21893,7 +21893,7 @@
 		
 		"chorus": "Topa aw keimah hong phawksak zelzel in\nNong hotkhiat ma'n lau huaina tawh ka kipelh zota\nA mangngilh thei mikhat kahih man'n Topa\nHong phawksak in, phawksak in, Topa",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -21936,7 +21936,7 @@
 		
 		"chorus": "Hunlap in! Hunlap in!\nZeisu in nang hong saplai in, hunlap in!\nMawhna sungsawt na thaamleh\nKong honsa’n mukei niteh\nNa kiko na’n lapken teh, hunlap in!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 144:4",
@@ -21976,7 +21976,7 @@
 		
 		"chorus": "Sanggam aw, Honpa’ itna na nialkha kei in\nNial le ci’n vantung langaih salo ding hi teh\nKa Pa’ inn sungah omna tampi a om hi\nZeisu na san leh nang zong pai ding hi teh",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "John 14:1-5",
@@ -22016,7 +22016,7 @@
 		
 		"chorus": "Kumtul kumthen a bei zong hithei ding maw?\nNang leh kei' ta'ng ding singlamteh tung\nHong sihna thu telthei ding maw?\nIh mawhna a bei nangin\nMawh lopi hong sihna thu\nKumtul kumthen a bei zongin\nTua zah itna tel ding maw?",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22053,7 +22053,7 @@
 		
 		"chorus": "Lam haksa in a kawi hang phamawh sa keng\nKeenlak guamlak khuamial in tuam ta leh\nKa kiang hong omden ka theih teh lungmuang ta ing\nKham kong zing ah kei hong paipih ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22090,7 +22090,7 @@
 		
 		"chorus": "Hong huh in Zeisu\nKa hun mawk beisak kha ing Zeisu\nKei bang mah man ke'ng\nTu'n Nang kong kisap lam\nTheita ing tu'n hong huh in Zeisu\nKa hong ki ap hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22131,7 +22131,7 @@
 		
 		"chorus": "Na thei maw, ka Zeisu?\nNa thei maw, ka Lawm?\nAman nang hong it hi\nA tawpdong hong ompih den ding hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22172,7 +22172,7 @@
 		
 		"chorus": "Aw, a etlawm Betlen aksipi\nKo tungah hong taangin zingsang mateng\nNa khuavaak tawh lampi hong taan in\nKhuavaak mahmah gam tun mateng\nHong taan in etlawm Betlen aksi aw",
 		
-		"style": "",
+		"style": "9/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22217,7 +22217,7 @@
 		
 		"chorus": "Vanglian khut ten'n lam hong pi\nVanlian khut te'n lam hong pi\nHih leitung ka hinlai in\nKei kia hilo ka thei hi\nA vanglian khut te'n lam hong pi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22258,7 +22258,7 @@
 		
 		"chorus": "Zeisu hong pai baih ding\nSun lai maw, zan maw zing\nMi tampi'n gim thuak ding\nPeengkul mut ciang\nMisite thokik ding\nMidik te'n van zuan ding\nSikik ngei nawnlo ding, vantung tun ciang",
 		
-		"style": "",
+		"style": "3/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22299,7 +22299,7 @@
 		
 		"chorus": "Nungta a hih ma'n\nBangbang piang ta se leh\nPhamawh sa ke'ng, zong laubeek ke'ng\nMailam hunte, A khutsung om cihthei ing\nAmah nungta ahih ma'n ka nunna'n ma'n nei",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22338,7 +22338,7 @@
 		
 		"chorus": "Tua lai ah, ni tumlo\nSingteh zong vul ngeilo\nMidikte a tawntung aksi bangin taang aa\nTua a etlawm kham khuapi sungah",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22377,7 +22377,7 @@
 		
 		"chorus": "Zeisu ka muh ciangin bangzah in a nuamzen tam!\nHehpihna tawh hong Tanpa a maitang ka et ciangin ah\nKa khut in hong leen ding aa\nKhapsa gamah hong paipih ding\nTua ni ciang bangzah in a nopzen tam!",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22418,7 +22418,7 @@
 		
 		"verse4": "Vantung Kumpipa ka gual zawhna hi\nVantung nopnate kei hong bansak in!\nBangbang piang ta leh ka lung sungah\nNa khempeuh a uk, ka vision na hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 119:105",
@@ -22460,7 +22460,7 @@
 		
 		"chorus": "Vantung na geelkhol thei hiam?\nLungnopna khempeuh kicinna\nLungkhamna om nawnlo\nVangik khempeuh zang ta\nTua in a tawntung nopna hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22499,7 +22499,7 @@
 		
 		"chorus": "Tung Sianmang in liimbang hong sungin\nKumsawt taangbang dam khawm leeng\nTun leh zua angliim pan in\nNa vontawi momno te'n Sian min phatin\nNa min thei bang lolo nung",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22539,7 +22539,7 @@
 		
 		"chorus": "Tuunnu bang tawh kong tehthei diam\nKham leh ngun sang zong na manpha zaw\nNong itna loh ding ka hinna'n cinkei\nKa leitung Pasian, hong it ka tuunnu",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -22584,7 +22584,7 @@
 		
 		"chorus": "Lamdang ka Topa, lamdang ka Topa\nVantung misiang te'n phat in bia hi, van ah\nVanglian ka Honpa, kei aa na hita\nLamdang a lamdang ka Topa",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 107:31",
@@ -22628,7 +22628,7 @@
 		
 		"chorus": "A nisim in, Amah phatna la sasa ni\nHun zong nuam semsem\nVan aa Pasian i phatna la\nA ni a ni in ngaih semsem",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "1 Peter 1:8",
@@ -22669,7 +22669,7 @@
 		"verse3": "Topa aw, hih nupate\nThupha tampi pia in\nTu leh ta tawi uh henla\nNeih leh lamh cingsak in\nUpna, lawpna kip nei in\nNang sung lungkim uh hen\nA khankum uh sawt henla\nTawntung kha kihual hen",
 		
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Matt. 19:6",
@@ -22711,7 +22711,7 @@
 		
 		"chorus": "Sihna'n sam gibang khen mateng, mateng in\nSian tawh maciang suan uh hen\nItna leh tongciam na'n khaubang hualkhawm in\nGual lai ah nii bang tang uh hen",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 128:1-6",
@@ -22755,7 +22755,7 @@
                 
         	"chorus": "Zingni suak sangin a tangzaw\nSun nitaang sang taangzaw Nang na hi\nVangliatna tawh dim na mai ah\nKhuamial leh meiilum theng hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Ecc. 5:16",
@@ -22797,7 +22797,7 @@
                 
         	"chorus": "Zanni tuni leh a tawntung Zeisu kikhel lo\nNa dang khempeuh a kikhel hang Zeisu kikhel lo!\nA minthang ta hen! A minthang ta hen!\nNa dang khempeuh a kikhel hang\nZeisu kikhel lo!",
 		
-		"style": "",
+		"style": "3/8",
 		"music": "",
 		"culture": "",
 		"refBible": "Heb. 13:8",
@@ -22839,7 +22839,7 @@
                 
         	"chorus": "Koi’h ka pai diam? Oh! koi ah ka pai diam?\nKa kha buk na’ng mun zong dingin\nNi tawpni ciang hong gum ding kisam ing\nTopa kianglo, koi’h ka pai diam?",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "John 6:68",
@@ -22881,7 +22881,7 @@
                 
         	"chorus": "Van gam sungah minthak khat kigelh hi\nKei’ min hi, keima min hi!\nPuanpaak silh vantung mi te'n la sa hi\nMimawh khat hong tung ci\nVantung gam sungah minthak khat kigelh hi\nKei min hi, keima min hi!\nKa mawhna maizo aa, vantung lam ka zuan ta!\nNuam hithiat zen si!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Heb. 12:23",
@@ -22964,7 +22964,7 @@
                 
         	"verse4": "Mawhna zawi nusia’n, Kumpi gam lut ding, khentat khinzo ta ing\nLawmte’n langdo zong, galte’n hong neh zong\nKa lut veve ding hi\nManlang', Manlang’ zuan ning Amah, kipaak leh suakta in\nKipaak, suakta takin\nZeisu, Zeisu lian pen, sangpen, Nang kong zui ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23007,7 +23007,7 @@
 		
 		"chorus": "Aw, bangzah in etlawm\nHonpa kalsuanna zuihna\nKhuavaak sung paina, khuavaak sung tunna\nAw, bangzah in etlawm\nHonpa' nung zui aa paina\nKhuavaak sung tunna",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23048,7 +23048,7 @@
 		
 		"chorus": "Lamdang Zeisu’ hong hehpihna\nTeh theih ding omlo hi\nTuipi lian sangin zong thuukzaw hi\nZong thuukzaw hi\nA lamdang hi mawhnei\nKei aa ding hehpihna kicing\nKa mawh huamna sangin zong zaizaw hi\nMawhna zumna sangin lianzaw hi\nO liansak ni a manpha pen Zeisu min, phatciat ni!",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23089,7 +23089,7 @@
 		
 		"chorus": "Topa sung lungdam un\nLeitung bei ni ciang Aman\nHong thei in hong telkhial lo ding hi\nGimna ka thuak ciang hong siangsak den\nKhambang hong siangsak hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23128,7 +23128,7 @@
 		
 		"chorus": "Zeisu tawh innkuan teengleng\nBangkim itna tawh dimin\nKitawt kisel kiphunsan nate omlo in\nLungzinna meiipi thengin\nNopna ni taang silsial ding aa\nBangkua hoih pen\nInnkuan nuam pen nasuak ding hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23172,7 +23172,7 @@
 		
 		"chorus": "Hallejah! Ke'n mukhin ingh\nKa zonden ka lunggulh pen\nZeisu’n ka lunggulhna cingsak\nA sisan hang suakta ingh",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23213,7 +23213,7 @@
 
 		"chorus": "Hong paikik ding, hong paikik ding\nZingsang hi thei, sun hi thei\nNitaak hi thei, nai mahmah ding\nHong paikik ding, hong paikik ding\nOh! Tuani ding lawphuai zen si'n cia maw!\nZeisu hong paikik ding hi",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23254,7 +23254,7 @@
 		
 		"chorus": "Tua in lamdang Pasian hehpihna hang hi!\nCalvary mual tungah kei taangding si hi\nMinthan ni zingsang khat ciangin\nA maitang ken ka mu ding\nLamdang Pasian hehpihna hang hi",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23297,7 +23297,7 @@
 		
 		"chorus": "Ka sungah nungta kei Nang' sungah\nTawntung omkhawm dingin kong thuum hi\nKiteh lo na vaanglian hong pia in\nNang tung pan mi tungah vaangliatna",
 		
-		"style": "",
+		"style": "9/8",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23340,7 +23340,7 @@
 		
 		"chorus": "Pasian in khitui nuul aa\nSihna natna omlo hi\nHun leh kum cih omlo aa\nZan cih om ngeilo hi",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Rev. 21:25; 22:5",
@@ -23384,7 +23384,7 @@
 		
 		"chorus": "Kong biangah, kong biangah\nKong biangah hi, kong biang hong tungzo\nHong paita hi, hong paita hi\nKong biang nangawn hong tungzo",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Matt. 24:33",
@@ -23426,7 +23426,7 @@
 		
 		"chorus": "Hong pai ding kiging sa in omciat ni\nHong pai ding Hallelujah! Hallelujah!\nPasian vangliatna tawh\nMeii tung tuangin hong pai ding\nEn a hun lian theilo",
 		
-		"style": "",
+		"style": "3/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
@@ -23471,7 +23471,7 @@
 		
 		"chorus": "Tatkhiat, tatkhiat\nTuuno sisan tawh tatkhiat sa\nTatkhiat, tatkhiat\nPasian' ta cihna ka ngahta",
 		
-		"style": "",
+		"style": "6/8",
 		"music": "",
 		"culture": "",
 		"refBible": "Psalm 107:2",
@@ -23509,7 +23509,7 @@
 		
 		"chorus": "Sianmang lumsun, lungtuak vontawi\nSian sinthu tawh mawngbang kikawi\nNunnuam kisung, lungtuak zai awi\nSian in siam hen, pianna Zogam",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"refBible": "Deu. 11:12",
@@ -23546,7 +23546,7 @@
 		
 		"chorus": "Zogam, Zomi, Zogam ei hong pia\nPa Pasian thanghen!\nZogam, Zomi, Zogam ei hong pia\nPa Pasian thang hen!\n(Zogam aa ding Pasian, Zomi aa ding Pasian\nLungsim khutte lamto in Pasian liansak un) x2",
 		
-		"style": "",
+		"style": "4/4",
 		"music": "",
 		"culture": "",
 		"artists": "",
